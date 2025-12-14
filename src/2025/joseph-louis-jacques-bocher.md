@@ -1,3 +1,7 @@
+<!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
+
+# Joseph Bocher Mort pour la France à 29 ans
+
 (Voix de Joseph)
 
 Je m’appelle Joseph Bocher, de Pont-Scorff. J’ai 29 ans.
@@ -22,8 +26,20 @@ J’ai vu mon grand frère Joseph pour la dernière fois ce jour du 27 août 191
 Pour ma part, j’ai été fait prisonnier ce même jour. Je resterai 51 mois au camp Sienne près de Paderborn, en Westphalie.
 Je serai libéré le 24 décembre 1918. Et contrairement à Joseph, j’aurai la chance de revoir notre village de Kervennec."
 
-****
+![](./images/bocher/joseph.jpg)
 
-Texte lu par Aubim et Pierre-Loup Tristant lors des comémorations du 11 novembre 2025. 
+*Joseph Bocher, service militaire vers 1907. Collection Famille Bocher-Tristant.*
+*Copyright &copy; 2025 Yvonnick Le Coupannec*
 
-Copyright &copy; 2025 Pierre-Loup Tristant sous license CC BY 4.0
+![](./images/bocher/pierre.jpg)
+
+*Pierre Bocher, prisonnier au camps de Sienne (Paderborn) en Westphalie. Collection Famille Bocher-Tristant.*
+*Copyright &copy; 2025 Yvonnick Le Coupannec*
+
+---
+
+Un texte de Pierre-Loup Tristant.
+
+Lu par Aubin et Pierre-Loup Tristant lors des comémorations du 11 novembre 2025.
+
+Copyright &copy; Comité Histoire et Patrimoine de Cléguer Pont-Scorff
