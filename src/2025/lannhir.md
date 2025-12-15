@@ -21,6 +21,8 @@ Ce toponyme associe lann (la lande) et l’adjectif hir (long, longue). Malgré 
 
 ---
 
-Un texte de Michel Pothier.
+Un texte de Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de 
+
+Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 6 décembre 2025.
 
 Copyright &copy; Comité Histoire et Patrimoine de Cléguer Pont-Scorff

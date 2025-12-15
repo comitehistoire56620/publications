@@ -29,12 +29,10 @@ Je serai libéré le 24 décembre 1918. Et contrairement à Joseph, j’aurai la
 ![](./images/bocher/joseph.jpg)
 
 *Joseph Bocher, service militaire vers 1907. Collection Famille Bocher-Tristant.*
-*Copyright &copy; 2025 Yvonnick Le Coupannec*
 
 ![](./images/bocher/pierre.jpg)
 
 *Pierre Bocher, prisonnier au camps de Sienne (Paderborn) en Westphalie. Collection Famille Bocher-Tristant.*
-*Copyright &copy; 2025 Yvonnick Le Coupannec*
 
 ---
 
