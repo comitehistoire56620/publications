@@ -2,7 +2,7 @@
 
 #  Sommaire
 
-[Introduction](README.md)
+[Introduction](intro.md)
 
 # Publications par années
 
