@@ -4,3 +4,6 @@ language = "fr"
 src = "src"
 title = "Publications"
 description = "Toutes les publications du Comités d'Histoire de Clégeur Pont-Scorff, de 2024 à aujourd'hui."
+
+[output.html]
+no-section-label = true
