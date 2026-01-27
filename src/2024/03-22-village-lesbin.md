@@ -1,0 +1,45 @@
+<!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
+
+
+# Lesbin
+
+Il existe deux explications, une assez répandue et une autre moins connue mais basée sur des découvertes récentes.
+
+L’explication la plus répandue suppose que Lesbin serait une forme raccourcie de “Les Aubin”. En effet ce “Les” viendrait de “Lis” qui veut dire “habitation enclose” en vieux breton et au début du moyen breton. De plus, c'est dans ce village qu’on trouve  l'église dédiée à Saint Aubin.
+
+Récemment, des chercheurs ont étudié des manuscrits comportant des graphies plus anciennes et qui permettent de proposer une autre explication.
+
+- Parrochia de Lebin 1167, 
+- Parroesse de Lebin de 1382 à 1444, 
+- Lebin 1445, Leubin Pontscorff 1448,
+- Lebin 1452 à 1591,
+- Lesbin et Lebin de 1600 à 1636, 
+- Paroisse de Leubin 1640,
+- Lesbin de 1642 à 1683, 
+- Lesvin 1785, 
+- Pont-Scorff Lesbeins 1818 (voir illustration ci-dessous).
+
+Les graphies les plus anciennes “Lebin” pourrait avoir pour origine le nom ou surnom d’un chef breton “Lebilin” signifiant "Chef Brillant".
+
+Sinon, il pourrait venir du nom “Leubinus”, moine poitevin, mort évêque de Chartres en 557. Ce nom qui a évolué en “ Lubin” est présent dans les côtes d’Armor ainsi qu’à Guiscriff. On peut se demander pourquoi il aurait évolué différemment ici.
+
+Ce n’est qu’au XVIIe siècle que l’on voit apparaître « Lesbin » avec comme premier élément “Les” (’habitation enclose). Le deuxième élément a été assimilé à cette époque à Saint Aubin. Or déjà en 1167 c’était Lebin et non pas Lesbin.
+
+🔜 Régulièrement nous allons proposer sur cette page les origines des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+
+🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014. Leurs recherches à partir des manuscrits des aveux, déclarations et censies de la seigneurie de la Roche Moisan provenant essentiellement du Fonds privé Rohan Bouillon des Archives Nationales à Paris, leur ont permis de recueillir les anciennes graphies des XVe et XVIe siècles d’un grand nombre de toponymes.
+
+🖼 Carte de l'état-major (1820-1866) @Géoportail
+
+![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/397741799681379.jpg)
+
+
+---
+
+Un texte de Michel Pothier. 
+
+Source: « Des sources de l’Ellé à l’Île de Groix », Jean-Yves Plourin et Pierre Holloco, édition Emgleo Breiz, 2014.
+
+Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 22 mars 2024.
+
+Copyright &copy; Comité Histoire et Patrimoine de Cléguer Pont-Scorff

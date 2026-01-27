@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Fernande Herpe, la fille du sabotier de Kerguendo
+# Fernande Herpe, la fille du sabotier
 
 Je m'appelle Fernande, Fernande Herpe. Je suis née en 1907 à la Vraie Croix, près de Vannes. 
 

@@ -1,0 +1,34 @@
+<!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
+
+
+# Hyacinthe Chauvel : Troisième arrestation
+
+Le premier maire de Pont-Scorff, Hyacinthe Chauvel, est également le recteur de Lesbin. En 1797, après 2 arrestations et 5 ans d'emprisonnement, il est libre mais sans cesse dénoncé et accusé par le commissaire Lapotaire de Lorient. Il sera finalement incarcéré une 3eme fois en la citadelle de Port-Liberté (nom de Port-Louis pendant la révolution).
+
+7️⃣ Troisième arrestation
+Lapotaire ne vit pas d’un bon œil le retour du prêtre Chauvel. Il écrivit : «… le vieux fanatique Chauvel, ex-curé inconstitutionnel de la commune de Pont-Scorff. Ce vieux fou et enragé aristocrate, aidé des plus mauvais citoyens, chouans du canton de Pont-Scorff va y causer les plus grands désastres. Je ne serais point surpris d’apprendre quelque jour un soulèvement dans la commune. Il eut été prudent de retenir un pareil homme, je crains tout de ce méchant homme et de sa société. A son entrée dans son Pont-Scorff, il a été porté en triomphe. Jugez de l’excès du délire de ces gens-là ». En réponse à ce courrier, l’administration supérieure invite Lapotaire à « engager quelque citoyen zélé pour le surveiller et le charge d’en faire bonne justice s’il s’avise à des prédications séditieuses ».
+
+Pendant ce temps, la ferveur grandit et la foule grossit chaque jour autour du bon pasteur. Lapotaire revient à la charge, par un courrier du 27 février 1797, il estime qu’il est de son devoir de le dénoncer à nouveau comme un être méchant et dangereux. En attendant, ce missionnaire qu’est Hyacinthe Chauvel, remplit son église de Lesbin plusieurs fois par jour pour faire entendre la parole de Dieu et développer la thèse de circonstance : « hors de l’Eglise catholique et romaine, point de salut. »
+
+Les dénonciations du commissaire embarrassent quelque peu l’administration centrale qui fait la réponse suivante : «… Le chapitre des prêtres est bien délicat, on en a trop parlé, la législation à leur égard est un tissus d’erreurs. Laissons donc au peuple le ministre de son culte et nous aurons la paix mais sévissons sans pitié contre ceux qui prêchent la révolte, livrons-les aux tribunaux… ». Cependant, Lapotaire réitère ses accusations en affirmant que : « M. Chauvel bafoue les lois de la République et se vante ne pas avoir fait le serment, je n’obtiendrai point de dénonciations par écrit car le patriote a peur du cultivateur et a trop à perdre pour se déclarer. …Pauvre pays ! Que vas-tu devenir ? » Le 11 février 1797, l’administration centrale du département lui rappelle : « Gardez-vous, je vous prie, de troubler l’exercice du culte, le gouvernement le tolère, même de la part des prêtres réfractaires ». Cet appel à la modération assagit Lapotaire pour quelques mois. Mais le 14 mai 1797, il revient à la charge en dénonçant l’usage des cloches et des processions : « Je ne souhaite pas troubler les cérémonies religieuses, mais la loi les astreint à l’intérieur des temples et défend tout signe extérieur. A Pont-Scorff, le prêtre Chauvel fait sonner la cloche pour sa messe, l’Angélus du matin, midi et soir. Il organise des processions dans les campagnes. Je vous devais ces détails. Je présume que le citoyen Touboulic (commissaire du pouvoir exécutif cantonal de Pont-Scorff, fervent défenseur de M. Chauvel) ne vous en aura pas avisé car je crois que c’est lui qui porte la bannière, c’est un défroqué calotin. »
+
+A force d’insistance, le pouvoir central finit par entendre les accusations de Lapotaire, celui-ci n’a de cesse de vouloir se débarrasser du recteur. Aussi par intérêt personnel, en effet, il a le vif désir de s’approprier les biens ecclésiastiques de la paroisse de Lesbin. A cette fin il mandate un de ses amis expert pour l’évaluation des biens.
+
+Le nouveau Directoire révolutionnaire en place, par la loi du 5 septembre 1797 autorise, par simple arrêté individuel, à déporter les prêtres réfractaires. L’ordre d’arrestation est prononcée et, pour la troisième fois, la gendarmerie d’Hennebont l’arrête le 22 octobre 1797 et le conduit à la prison d’Hennebont avant son transfert à Lorient puis à la citadelle de Port-Liberté (Port-Louis). Lapotaire exulte : « Je vous annonce que ce vieux fanatique et dangereux prêtre de Pont-Scorff a été arrêté ce matin et transféré à Port-Liberté. » En guise de protestation, une pétition des paroissiens de Pont-Scorff du 24 octobre 1797 adressée aux administrateurs de Lorient et une lettre du Commissaire Touboulic à l’intention du commissaire de l’administration de Vannes n’y changent rien. Lapotaire s’en prendra dorénavant à Touboulic en le dénonçant à l’administration centrale, l’accusant de protéger un dangereux prêtre réfractaire. Il demande donc son arrestation et sa mise en jugement. Par ailleurs, Le procureur du syndic du département Le Malliaud reproche également à Touboulic la protection toute particulière qu’il accorde au vieux prêtre Chauvel. De plus, il écrit au ministre de la police générale de la république pour l’inviter à sévir contre l’abbé Chauvel et à procéder au remplacement de Touboulic, son défenseur. Le ministre accuse réception et confirme les propositions de Le Malliaud. 
+
+Cependant, un document du 7 décembre 1797 (17 frimaire an VI) adressé par le chef de la 17ème division de guerre au directeur des fortifications de Port-Liberté  dit : « j’ai mis sous les yeux du ministre, les objections sur l’usage, depuis quelques temps, de placer dans cette citadelle, les déportés et détenus, tant pour la salubrité et la sureté des logements de ces prisonniers. C’est une place de guerre qui renferme l’arsenal et les moyens de défense de cette partie de la frontière. Le ministre n’a pu se dispenser de faire sentir à son collègue de l’intérieur, de ne plus placer de détenus dans la citadelle de Port-Liberté ». La citadelle fut vidée de ses prisonniers … à l’exception de l’abbé Chauvel que Le Malliaud maintint dans la citadelle. C’est seulement après une décision de l’administration centrale du département qu’il ordonna, la mort dans l’âme, le transfert de l’abbé Chauvel à la maison d’arrêt de Vannes le 16 janvier 1798. L’incarcération au Petit-Couvent est pénible et misérable. Il y restera enfermé presque 2 ans.
+
+🖼 ”Plan de la ville et citadelle du Port-Liberté”, J-F Gourdin, vers 1790-1800. Patrimoines & Archives du Morbihan cote 1 Fi 78
+
+![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/415309637924595.jpg)
+
+
+---
+
+Un texte de Joël Nevannen
+
+Source : Histoire d'un prêtre Morbihannais pendant la révolution, Vincent Jeffrédo.
+
+Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 21 avril 2024.
+
+Copyright &copy; Comité Histoire et Patrimoine de Cléguer Pont-Scorff
