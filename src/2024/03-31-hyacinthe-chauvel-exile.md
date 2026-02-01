@@ -3,7 +3,7 @@
 
 # Hyacinthe Chauvel : Exil et arrestation
 
-"Le 2 juillet 1791, Hyacinthe et Pierre Chauvel se retirent à Guémené-sur-Scorff dans la maison familiale. Ils sont accueillis par la municipalité avec bienveillance. Pour le district d’Hennebont, ils sont déclarés en fuite. Le commissaire Lapotaire de Lorient va traquer sa proie afin de se rendre célèbre aux yeux des chefs révolutionnaires.
+Le 2 juillet 1791, Hyacinthe et Pierre Chauvel se retirent à Guémené-sur-Scorff dans la maison familiale. Ils sont accueillis par la municipalité avec bienveillance. Pour le district d’Hennebont, ils sont déclarés en fuite. Le commissaire Lapotaire de Lorient va traquer sa proie afin de se rendre célèbre aux yeux des chefs révolutionnaires.
 
 Les exilés trouvent auprès des directeurs du district de Pontivy et de la municipalité de Guémené une hospitalité généreuse et protectrice. 
 
@@ -13,21 +13,11 @@ Dès lors le pouvoir judiciaire du district de Pontivy, en accord avec la munici
 
 Le 14 août 1792, la situation du clergé s’aggrave nettement, un décret ordonne l’internement et la déportation des prêtres réfractaires. En application de ce décret, le capitaine Beysser se rend à Guémené pour procéder à l’arrestation de M. Chauvel. Cependant, ne présentant un ordre écrit seulement signé par lui-même, la municipalité refuse de lui livrer les réfractaires.
 
-Le 19 août 1792, après plusieurs échanges de courrier, le Directoire du département de Vannes rompt le silence et ordonne l’arrestation des prêtres réfractaires, les qualifiant d’être des hommes infiniment dangereux. Hyacinthe Chauvel est un personnage de premier choix pour le commissaire Lapotaire, il oubliera de citer Pierre Chauvel sur l’ordre d’arrestation. Le 22 août 1792, la municipalité de Guémené obtint l’accord d’accompagner eux-mêmes les réfractaires dont M. Chauvel jusqu’à la citadelle de Port-Louis ou ils furent incarcérés, Hyacinthe Chauvel, âgé de 61 ans échappe à la déportation. Ils arrivent à Port-Louis le 24 août 1792."
+Le 19 août 1792, après plusieurs échanges de courrier, le Directoire du département de Vannes rompt le silence et ordonne l’arrestation des prêtres réfractaires, les qualifiant d’être des hommes infiniment dangereux. Hyacinthe Chauvel est un personnage de premier choix pour le commissaire Lapotaire, il oubliera de citer Pierre Chauvel sur l’ordre d’arrestation. Le 22 août 1792, la municipalité de Guémené obtint l’accord d’accompagner eux-mêmes les réfractaires dont M. Chauvel jusqu’à la citadelle de Port-Louis ou ils furent incarcérés, Hyacinthe Chauvel, âgé de 61 ans échappe à la déportation. Ils arrivent à Port-Louis le 24 août 1792.
 
-Depuis le 19 février dernier, une rue du quartier de Lesbin à Pont-Scorff porte le nom de Hyacinthe Chauvel, le premier maire de la commune. C’est l’occasion pour le Comité d’Histoire de Cléguer Pont-Scorff de mettre en lumière sa vie pour le moins mouvementée au travers d’une série de postes.
+![Citadelle du Port-Louis près Lorient en 1792](./images/citadelle-du-port-louis-btv1b84403392.jpeg)
 
-Retrouvez les postes précédents:
-- Arrivée à Pont-Scorff
-- Révolution, élection et refus de prêter serment
-- Religion d'État et prêtres réfractaires
-
-Ce texte vous a est proposé par Joël Nevannen, membre du Comité d’Histoire de Cléguer Pont-Scorff et qui a pris pour source le livre de Vincent Jeffrédo.
-
-🖼 “Citadelle du Port-Louis près Lorient en 1792”. BnF / Gallica, ark:/12148/btv1b84403392
-
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/403124799143079.jpg)
-
+*Citadelle du Port-Louis près Lorient en 1792. BnF / Gallica, ark:/12148/btv1b84403392*
 
 ---
 

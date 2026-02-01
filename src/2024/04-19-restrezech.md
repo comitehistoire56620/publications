@@ -35,8 +35,11 @@ Il est à remarquer que l’écriture du nom de ce village hésite continuelleme
 
 ![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/414325124689713.jpg)
 
-
 ---
+
+Un texte de Michel Pothier. 
+
+Source: « Des sources de l’Ellé à l’Île de Groix », Jean-Yves Plourin et Pierre Holloco, édition Emgleo Breiz, 2014.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 19 avril 2024.
 

@@ -3,9 +3,6 @@
 
 # Hyacinthe Chauvel : Troisième arrestation
 
-Le premier maire de Pont-Scorff, Hyacinthe Chauvel, est également le recteur de Lesbin. En 1797, après 2 arrestations et 5 ans d'emprisonnement, il est libre mais sans cesse dénoncé et accusé par le commissaire Lapotaire de Lorient. Il sera finalement incarcéré une 3eme fois en la citadelle de Port-Liberté (nom de Port-Louis pendant la révolution).
-
-7️⃣ Troisième arrestation
 Lapotaire ne vit pas d’un bon œil le retour du prêtre Chauvel. Il écrivit : «… le vieux fanatique Chauvel, ex-curé inconstitutionnel de la commune de Pont-Scorff. Ce vieux fou et enragé aristocrate, aidé des plus mauvais citoyens, chouans du canton de Pont-Scorff va y causer les plus grands désastres. Je ne serais point surpris d’apprendre quelque jour un soulèvement dans la commune. Il eut été prudent de retenir un pareil homme, je crains tout de ce méchant homme et de sa société. A son entrée dans son Pont-Scorff, il a été porté en triomphe. Jugez de l’excès du délire de ces gens-là ». En réponse à ce courrier, l’administration supérieure invite Lapotaire à « engager quelque citoyen zélé pour le surveiller et le charge d’en faire bonne justice s’il s’avise à des prédications séditieuses ».
 
 Pendant ce temps, la ferveur grandit et la foule grossit chaque jour autour du bon pasteur. Lapotaire revient à la charge, par un courrier du 27 février 1797, il estime qu’il est de son devoir de le dénoncer à nouveau comme un être méchant et dangereux. En attendant, ce missionnaire qu’est Hyacinthe Chauvel, remplit son église de Lesbin plusieurs fois par jour pour faire entendre la parole de Dieu et développer la thèse de circonstance : « hors de l’Eglise catholique et romaine, point de salut. »
@@ -18,10 +15,8 @@ Le nouveau Directoire révolutionnaire en place, par la loi du 5 septembre 1797 
 
 Cependant, un document du 7 décembre 1797 (17 frimaire an VI) adressé par le chef de la 17ème division de guerre au directeur des fortifications de Port-Liberté  dit : « j’ai mis sous les yeux du ministre, les objections sur l’usage, depuis quelques temps, de placer dans cette citadelle, les déportés et détenus, tant pour la salubrité et la sureté des logements de ces prisonniers. C’est une place de guerre qui renferme l’arsenal et les moyens de défense de cette partie de la frontière. Le ministre n’a pu se dispenser de faire sentir à son collègue de l’intérieur, de ne plus placer de détenus dans la citadelle de Port-Liberté ». La citadelle fut vidée de ses prisonniers … à l’exception de l’abbé Chauvel que Le Malliaud maintint dans la citadelle. C’est seulement après une décision de l’administration centrale du département qu’il ordonna, la mort dans l’âme, le transfert de l’abbé Chauvel à la maison d’arrêt de Vannes le 16 janvier 1798. L’incarcération au Petit-Couvent est pénible et misérable. Il y restera enfermé presque 2 ans.
 
-🖼 ”Plan de la ville et citadelle du Port-Liberté”, J-F Gourdin, vers 1790-1800. Patrimoines & Archives du Morbihan cote 1 Fi 78
-
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/415309637924595.jpg)
-
+![Plan de la ville et citadelle du Port-Liberté](./images/citadelle-du-port-liberte-1FI0078.jpg)
+*Plan de la ville et citadelle du Port-Liberté, J-F Gourdin, vers 1790-1800. Patrimoines & Archives du Morbihan cote 1 Fi 78*
 
 ---
 

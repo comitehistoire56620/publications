@@ -19,16 +19,17 @@ Les « constitutionnels » eux aussi sont pris pour cible. Certaines campagnes t
 
 Ainsi, à la fin de la révolution en 1799, on estime que 140 prêtres sont morts, victimes d’avoir rejeté ou embrassé les idées de la Révolution.
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/398963482892544.jpg)
+![L'exécution du bienheureux Pierre-René Rogue](./images/execution-pierre-rene-rogue.png)
 
-🖼 "L'exécution du bienheureux Pierre-René Rogue", Vannes, place du Marché, actuellement place Maurice Marchais, par Joseph Gousset. Collection privée Paroisse Cathédrale Saint Pierre de Vannes
+*L'exécution du bienheureux Pierre-René Rogue, Vannes, place du Marché, actuellement place Maurice Marchais, par Joseph Gousset. Collection privée Paroisse Cathédrale Saint Pierre de Vannes*
 
 
 ---
 
-Un texte de Joël Nevannen
+Un texte de Pierre-Loup Tristant
 
-Source : Histoire d'un prêtre Morbihannais pendant la révolution, Vincent Jeffrédo.
+Source :  “Les Catholiques et la Révolution Française”, publié par les Archives de la Mairie de Vannes  
+en 1996.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 24 mars 2024.
 

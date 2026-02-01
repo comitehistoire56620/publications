@@ -19,7 +19,7 @@ Son frère Pierre Marie, est nommé prêtre de Priziac le 22 septembre 1770 comm
 
 Depuis le mois de février 2024 une rue de Pont-Scorff porte le nom de Hyacinthe Chauvel, le premier maire de Pont-Scorff. C’est l’occasion pour le Comité d’Histoire de Cléguer Pont-Scorff de mettre en lumière sa vie pour le moins mouvementée au travers d’une série de postes.
 
-![](.\images\lesbin-1944-3Fi184.jpg)
+![Chapelle de Lesbin en 1944](.\images\lesbin-1944-3Fi184.jpg)
 *Le clocher de la chapelle Saint-Aubin, Le Diberder, Photographe, vers 1944. Patrimoines & Archives du Morbihan, cote 3 Fi 184/6*
 
 ---

@@ -3,9 +3,6 @@
 
 # Hyacinthe Chauvel : Pacification et fin de vie
 
-Le premier maire de Pont-Scorff, Hyacinthe Chauvel, est également le recteur de Lesbin. En 1799, après 5 ans et 10 mois de captivité dans 10 prisons différentes, il est enfin libéré de la prison dite du Petit-Couvent de Vannes (bâtiment G sur la gauche de l’illustration).
-
-8️⃣ Pacification et fin de vie
 Le coup d’état du 10 novembre 1799 (18 brumaire) renverse le Directoire qui s’était, par ses vexations odieuses, attiré la haine publique. Le général Bonaparte, premier des trois consuls venait de « déchirer » la constitution de l’an III. Puis, par un arrêté du 21 novembre 1799, demande la libération des prêtres. Les autorités consulaires conjurent les représentants locaux de ramener la paix en autorisant la liberté du culte et la tolérance religieuse.
 
 Le 25 décembre 1799, Hyacinthe Chauvel, en son nom et au nom de ses confrères détenus au Petit-Couvent de Vannes, rédigea de sa main une pétition pour demander « Puisque nous avons le bonheur de voir renaître l’espoir de la paix, de la justice et de l’humanité, veuillez nous en faire ressentir les effets en nous délivrant de la détention sous laquelle nous gémissons ». La réponse des autorités ne se fit pas attendre, Les prêtres sont immédiatement remis en liberté. Dans un premier temps, ils sont contraints de rester à Vannes, hébergés par des personnes bienveillantes sous la surveillance de la police de cette cité. Ironie de l’Histoire : le jour-même, (25 décembre 1799) Jean Gabriel Lapotaire, l’homme qui a poursuivi Hyacinthe Chauvel sans relâche pendant 10 ans et à l’origine de ses souffrances, est élu député du Morbihan et rejoint l’assemblée Nationale.
@@ -18,10 +15,9 @@ Au cours des 10 années de la révolution, l’abbé Chauvel aura passé 5 ans e
 
 Le 18 mars 1806, Hyacinthe Chauvel décède à Pont-Scorff, à l’âge de 74 ans.
 
-🖼 Vue de la ville épiscopale de Vannes du costé du port, 1745. Tous droits réservés Archives municipales de VANNES, Collection de Robien, cote 23Fi14.
+![Vue de la ville épiscopale de Vannes du costé du port](./images/vannes-1745-23Fi14.jpg)
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/419629017492657.jpg)
-
+*Vue de la ville épiscopale de Vannes du costé du port, 1745. Tous droits réservés Archives municipales de VANNES, Collection de Robien, cote 23Fi14.*
 
 ---
 

@@ -44,8 +44,11 @@ Quant au Bas Kerlonic de la carte de Cassini nous n’avons pas d’explication.
 
 ![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/440844628704429.jpg)
 
-
 ---
+
+Un texte de Michel Pothier. 
+
+Source: « Des sources de l’Ellé à l’Île de Groix », Jean-Yves Plourin et Pierre Holloco, édition Emgleo Breiz, 2014.wx<>
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 31 mai 2024.
 

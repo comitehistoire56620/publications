@@ -29,12 +29,14 @@ En 1861 on trouvait déjà un café au lieu-dit l'Enfer et l'outil de levage qu'
 
 🖼 Cartes IGN 1950 Géoportail
 
-Bar Les Sapins Verts Comité des fêtes de l'Enfer
-
 ![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/401894669266092.jpg)
 
 
 ---
+
+Un texte de Michel Pothier. 
+
+Source: « Des sources de l’Ellé à l’Île de Groix », Jean-Yves Plourin et Pierre Holloco, édition Emgleo Breiz, 2014.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 29 mars 2024.
 

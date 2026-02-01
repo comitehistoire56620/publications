@@ -34,6 +34,8 @@ Cette pratique, bien que contestée à la révolution, fut confirmée par la loi
 
 ---
 
+Un texte de Michel Pothier. 
+
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 20 octobre 2024.
 
 Copyright &copy; Comité Histoire et Patrimoine de Cléguer Pont-Scorff
