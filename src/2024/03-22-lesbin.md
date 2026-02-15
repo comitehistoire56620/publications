@@ -1,7 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# Lesbin
+# Lesbin (Pont-Scorff)
 
 Il existe deux explications, une assez répandue et une autre moins connue mais basée sur des découvertes récentes.
 
@@ -29,10 +28,9 @@ Ce n’est qu’au XVIIe siècle que l’on voit apparaître « Lesbin » avec c
 
 🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014. Leurs recherches à partir des manuscrits des aveux, déclarations et censies de la seigneurie de la Roche Moisan provenant essentiellement du Fonds privé Rohan Bouillon des Archives Nationales à Paris, leur ont permis de recueillir les anciennes graphies des XVe et XVIe siècles d’un grand nombre de toponymes.
 
-🖼 Carte de l'état-major (1820-1866) @Géoportail
+![Image](./images/lesbin-carte-etat-major.png)
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Carte de l'état-major (1820-1866), IGN*
 
 ---
 

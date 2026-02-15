@@ -1,6 +1,5 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Hyacinthe Chauvel : Pacification et fin de vie
 
 Le coup d’état du 10 novembre 1799 (18 brumaire) renverse le Directoire qui s’était, par ses vexations odieuses, attiré la haine publique. Le général Bonaparte, premier des trois consuls venait de « déchirer » la constitution de l’an III. Puis, par un arrêté du 21 novembre 1799, demande la libération des prêtres. Les autorités consulaires conjurent les représentants locaux de ramener la paix en autorisant la liberté du culte et la tolérance religieuse.

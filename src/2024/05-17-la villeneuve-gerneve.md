@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# La Villeneuve (Gernévé)
-
-🏘️ A Pont-Scorff, sur la route de Gestel, se trouve le village de La Villeneuve ou Gernévé en breton.
+# La Villeneuve (Pont-Scorff)
 
 Comme pour Ty-Nehue, le nom de cet endroit s’est écrit en breton à partir de 1818, mais actuellement il est revenu au français. Voici la liste des graphies qui ont pu être retrouvées pour ce lieu:
 
@@ -17,14 +14,9 @@ Comme pour Ty-Nehue, le nom de cet endroit s’est écrit en breton à partir de
  - La Villeneuve de 1762 à 1790, 
  - Guernévé cadastre de 1818.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+![Image](./images/lavilleneuve-carte-etat-major.png)
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
-
-🖼️ Carte de l'état-major (1820-1866) Géoportail
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Carte de l'état-major (1820-1866) IGN*
 
 ---
 

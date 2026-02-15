@@ -42,7 +42,10 @@ jobs:
         run: uv run scripts/generated_print_summary.py ${{ inputs.year }}
 
       - name: Build PDF
-        run: mdbook build -c book-print.toml
+        run: |
+          rm book.toml
+          cp book-print.toml book.toml
+          mdbook build
 
       - name: Upload PDF
         uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6.0.0

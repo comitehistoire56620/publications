@@ -1,6 +1,5 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Hyacinthe Chauvel : Troisième arrestation
 
 Lapotaire ne vit pas d’un bon œil le retour du prêtre Chauvel. Il écrivit : «… le vieux fanatique Chauvel, ex-curé inconstitutionnel de la commune de Pont-Scorff. Ce vieux fou et enragé aristocrate, aidé des plus mauvais citoyens, chouans du canton de Pont-Scorff va y causer les plus grands désastres. Je ne serais point surpris d’apprendre quelque jour un soulèvement dans la commune. Il eut été prudent de retenir un pareil homme, je crains tout de ce méchant homme et de sa société. A son entrée dans son Pont-Scorff, il a été porté en triomphe. Jugez de l’excès du délire de ces gens-là ». En réponse à ce courrier, l’administration supérieure invite Lapotaire à « engager quelque citoyen zélé pour le surveiller et le charge d’en faire bonne justice s’il s’avise à des prédications séditieuses ».

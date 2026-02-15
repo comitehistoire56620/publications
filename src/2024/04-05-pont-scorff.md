@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Pont-Scorff
-
-🏘️ Intéressons nous aujourd’hui à l’origine du nom de la commune de Pont-Scorff. Facile, me direz vous, ce nom fait référence au Pont sur la rivière Scorff. Oui mais alors, que veut dire Scorff ? On vous propose deux explications.
 
 Ce n’est qu’au XIXe siècle qu’un lexicographe voulant à tout prix donner une signification au nom « Scorff » le définit comme étant  une décharge de l’eau superflue d’un étang. Drôle de nom pour une rivière.
 
@@ -13,14 +10,9 @@ Si l’on admet cette évolution cela donnerait Pons Corvi qui en français se t
 
 Cette explication de l’étymologie de Pont-Scorff semble être la plus cohérente de celles qui ont été présentées jusqu’à présent. Mais cela amène une autre énigme de taille : quel était alors le nom de cette rivière qui coule sous ce pont ?
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines des noms des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+![Image](./images/pont-scorff-cadastre-1818.jpg)
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
-
-🖼️ Cadastre dit Napoléonien, Commune de Pont-Scorff, Section C du Bourg, 2e feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 9.
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Cadastre dit Napoléonien, Commune de Pont-Scorff, Section C du Bourg, 2e feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 9.*
 
 ---
 

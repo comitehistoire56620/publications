@@ -1,11 +1,9 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
 
-# Henri Huchet de Cintré, le dernier combat
+# Henri Huchet de Cintré, le dernier combat d'un Cléguérois
 
-Juin 1940, le dernier combat d'un Cléguérois
-
-"Henri Huchet de Cintré est un joyeux jeune homme de 21 ans, plein de vie et de bonne humeur qui amuse son entourage à la moindre occasion. Beau garçon, les jeunes filles sont sensibles à son charme et à son esprit blagueur.
+Henri Huchet de Cintré est un joyeux jeune homme de 21 ans, plein de vie et de bonne humeur qui amuse son entourage à la moindre occasion. Beau garçon, les jeunes filles sont sensibles à son charme et à son esprit blagueur.
 
 Mais en septembre 1939, la seconde guerre mondiale est déclarée, cette vie insouciante s'arrête. Henri part au front. Il est mécanicien de char et en mai 1940, il est en opération à proximité d'Abbeville.
 
@@ -17,18 +15,17 @@ Ils rampent côte à côte, utilisant les moindres trous pour se protéger et pa
 
 Ce champ de blé, dans cette nuit noire du mois de juin 1940, recueillera le dernier soupir d'Henri Huchet de Cintré.
 
-Pour son courage et son sang-froid, pour cette mort glorieuse à son poste de combat, Henri recevra La Croix de guerre avec étoile de bronze et étoile d'argent ainsi que la médaille militaire.  Il est mort en héros."
+Pour son courage et son sang-froid, pour cette mort glorieuse à son poste de combat, Henri recevra La Croix de guerre avec étoile de bronze et étoile d'argent ainsi que la médaille militaire.  Il est mort en héros.
 
-Ce texte vous a été proposé par Marie-Claude Nicolas, membre du Comité d’Histoire de Cléguer Pont-Scorff.
-Il a été lu ce jour lors des commémorations du 8 mai qui ont eu lieu à Cléguer .
+![Image](./images/henri-huchet-de-cintre.jpg)
 
-🖼️ Collection privée, Famille Huchet de Cintré
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Portrait d'Henri Huchet de Cintré, collection privée, famille Huchet de Cintré*
 
 ---
+
+Un texte de Marie-Claude Nicolas.
+
+Lu lors des commémorations du 8 mai 2024 à Cléguer.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 8 mai 2024.
 

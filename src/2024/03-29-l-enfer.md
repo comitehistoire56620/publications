@@ -1,11 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# L'Enfer
-
-🏘 Dans la commune de Cléguer un lieu-dit au nom particulier attise la curiosité : l’Enfer. En connaissez vous l’origine ?
-
-Est ce que cela aurait un rapport avec les diables utilisés par les ouvriers ? On vous en parle à la fin.
+# L'Enfer (Cléguer)
 
 Ce terme défavorable d’Enfer évoque un lieu de damnation perpétuelle.
 
@@ -27,17 +22,19 @@ En 1861 on trouvait déjà un café au lieu-dit l'Enfer et l'outil de levage qu'
 
 🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle prend pour sources le livre “Secrets & mystères de nos Kêr - Tome 2”  par Job Jaffré et “Sur les rives du Scorff” par Martine Rouellé.
 
-🖼 Cartes IGN 1950 Géoportail
+![Image](./images/lenfer-ign-1950.png)
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Cartes IGN 1950, IGN*
 
 ---
 
 Un texte de Michel Pothier. 
 
-Source: « Des sources de l’Ellé à l’Île de Groix », Jean-Yves Plourin et Pierre Holloco, édition Emgleo Breiz, 2014.
+Sources: 
+* « Des sources de l’Ellé à l’Île de Groix », Jean-Yves Plourin et Pierre Holloco, édition Emgleo Breiz, 2014.
+* « Secrets & mystères de nos Kêr - Tome 2 »  par Job Jaffré 
+* « Sur les rives du Scorff » par Martine Rouellé.
 
-Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 29 mars 2024.
+Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 22 mars 2024.
 
 Copyright &copy; Comité Histoire et Patrimoine de Cléguer Pont-Scorff

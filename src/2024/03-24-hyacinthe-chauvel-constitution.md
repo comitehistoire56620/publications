@@ -1,6 +1,5 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Hyacinthe Chauvel et la Constitution civile du clergé
 
 A cette époque, la France est dirigée par l'Assemblée Nationale Constituante issue de la révolution de 1789. Louis XVI est toujours roi de France mais ses pouvoirs sont limités.

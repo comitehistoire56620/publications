@@ -1,6 +1,5 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Hyacinthe Chauvel face à la Révolution
 
 Tout va pour le mieux à Lesbin Pont-Scorff, lorsque la tourmente révolutionnaire éclate. Cela fait 21 ans qu’il exerce son sacerdoce dans ces lieux. Prêtre instruit et vertueux, en 1790, ses paroissiens l’élisent premier maire de Lesbin Pont-Scorff, c’est dire l’estime et l’attachement de ses ouailles pour leur pasteur. Cet honneur qu’il vient de revêtir devient une charge bien lourde en cette période de l’histoire. Le recteur-maire est une cible trop visible et les ennemis de l’Église ne manquent pas de saisir l’occasion pour frapper.

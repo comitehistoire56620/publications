@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# Restrezech
-
-🏘️ Le village de Restrezech se trouve à Pont-Scorff au nord du quartier de Lesbin. Pour comprendre ce que ce nom de lieu signifie, il faut comme souvent regarder du côté du breton et des traces écrites anciennes.
+# Restrezech (Pont-Scorff)
 
 Pour le village de Restrezerch nous trouvons les graphies suivantes :
 
@@ -27,13 +24,9 @@ Quand a “An Sech” on pense qu’il s'agit du nom de famille Le Sech. En effe
 
 Il est à remarquer que l’écriture du nom de ce village hésite continuellement entre Restresech et Restersech.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
+![Image](./images/restrezerch-cadastre-1818.jpg)
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
-
-🖼️ Cadastre dit Napoléonien, Commune de Pont-Scorff, Section C du Bourg, 2e feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 9
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+*Cadastre dit Napoléonien, Commune de Pont-Scorff, Section C du Bourg, 2e feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 9*
 
 ---
 
