@@ -35,7 +35,6 @@
     - [Parc er Blay](2024/06-28-parc-er-blay.md)
     - [1 rue Terrien](2024/07-05-1-rue-terrien.md)
     - [Place du Puits](2024/07-13-place-du-puits.md)
-    - [Archives du Comité d'Histoire](2024/07-13-post-1720854085.md)
     - [Manoir de Saint-Urchaut](2024/07-19-manoir-saint-urchaut.md)
     - [Lann Hir](2024/07-26-lann-hir.md)
     - [Rue du Temple (Rue du Général de Langle de Cary)](2024/08-02-rue-temple-pont-scorff.md)

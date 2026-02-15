@@ -1,0 +1,51 @@
+name: Print Version
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: 'Year to generate (e.g., 2024)'
+        required: true
+        type: string
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@eac588ad8def6316056a12d4907a9d4d84ff7a3b # v7.3.0? (Using hash from search)
+
+      - name: Install latest mdbook
+        run: |
+          tag=$(curl 'https://api.github.com/repos/rust-lang/mdbook/releases/latest' | jq -r '.tag_name')
+          url="https://github.com/rust-lang/mdbook/releases/download/${tag}/mdbook-${tag}-x86_64-unknown-linux-gnu.tar.gz"
+          mkdir mdbook
+          curl -sSL $url | tar -xz --directory=./mdbook
+          echo `pwd`/mdbook >> $GITHUB_PATH
+
+      - name: Install mdbook-pdf
+        run: |
+          # mdbook-pdf is not included in peaceiris action by default often, or needs manual install
+          # We can download a binary or cargo install (slow).
+          # Trying binary download from releases or cargo-binstall if available.
+          # For reliability in this plan, let's use cargo install but cache it if possible, 
+          # OR better, since we have uv, check if there is a python wrapper? No.
+          # Let's trust cargo install for now or check if peaceiris supports tools.
+          # For speed, let's try to fetch a binary.
+          # Actually, let's just use cargo install mdbook-pdf, it might take a minute.
+          cargo install mdbook-pdf
+
+      - name: Generate Summary
+        run: uv run scripts/generated_print_summary.py ${{ inputs.year }}
+
+      - name: Build PDF
+        run: mdbook build -c book-print.toml
+
+      - name: Upload PDF
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6.0.0
+        with:
+          name: ${{ inputs.year }}-print-version
+          path: book/pdf/output.pdf

@@ -1,0 +1,24 @@
+[book]
+authors = ["Comité d'Histoire de Clégeur Pont-Scorff"]
+language = "fr"
+src = "src"
+title = "Publications - Version Imprimable"
+description = "Version imprimable des publications."
+
+# Use the generated summary file
+summary = "SUMMARY_PRINT.md"
+
+[output.html]
+no-section-label = true
+
+[output.pdf]
+# mdbook-pdf configuration
+# ensure we use Chrome/Chromium
+print-background = true
+landscape = false
+paper-width = "210mm"
+paper-height = "297mm"
+margin-top = "10mm"
+margin-bottom = "10mm"
+margin-left = "10mm"
+margin-right = "10mm"
