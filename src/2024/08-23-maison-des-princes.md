@@ -12,8 +12,8 @@ Certains d’entre vous ont sûrement connu le commerce qui se trouvait au rez-d
 🖼️ Photo ancienne: collection Sylvie Lelgoualc'h
 Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/492629850192573.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/492629846859240.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

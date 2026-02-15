@@ -13,8 +13,8 @@ Pour s'y rendre, c'est à pied : départ du parking Les Terres de Nataé et suiv
 
 Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/764215456367343.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/764215493034006.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

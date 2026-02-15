@@ -18,7 +18,7 @@ Au cours d’une rencontre avec la flotte française, son navire est coulé. Ell
 
 🖼️ Exécution d'Olivier IV de Clisson, tiré de la Chronique de Jean Froissart (ms fr. 2643, fol° 126r), enluminure de Loyset Liédet. BnF Gallica, cote ark:/12148/btv1b84386043
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/441957645259794.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

@@ -32,7 +32,7 @@ En cette fin avril nous commémorons les 80 ans de la mort de Louisette Duliscou
 
 🖼️ Photo de la famille Duliscouët vers 1939-1940 (Louisette est au centre) © Collection Yvonnick Le Coupannec.
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/671576208964602.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

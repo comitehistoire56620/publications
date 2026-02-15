@@ -32,8 +32,8 @@ Quant au nom de Samedy, il doit être rapproché des autres lieux du même nom e
 🖼️ Section D de Kermorvant, 2ème feuille, 1818. Patrimoines & Archives du Morbihan  cote 3 P 225 12
 Carte de l'état-major (1820-1866) Géoportail
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/595179129937644.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/595179126604311.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

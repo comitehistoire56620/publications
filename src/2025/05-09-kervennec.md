@@ -24,8 +24,8 @@ Ce toponyme associe Ker à Maenec qui peut être soit un nom de personne soit un
 
 Carte IGN Géoportail
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/678473671608189.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/678473674941522.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

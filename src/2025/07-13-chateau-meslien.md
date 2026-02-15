@@ -12,8 +12,8 @@ Les piliers sont ornés de lions couchés. Ils portent les armes des Robecq qui 
 🖼️ Photo ancienne: Archives du Morbihan (1934).
 Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/726970670091822.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/726970900091799.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

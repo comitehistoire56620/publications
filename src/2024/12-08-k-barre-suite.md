@@ -24,7 +24,7 @@ Actuellement, une députée de la Réunion, Émeline K/bidi (prononcer Kerbidi),
 
 🖼️ Inscription en breton sur la façade d'une maison à Quimiac (Loire-Atlantique, France) par Skimel sous licence CC BY-SA 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/568094555979435.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

@@ -12,8 +12,8 @@ La carte postale mentionne le lieu-dit “Lann er Groez Rhu” (Lande de la Croi
 🖼️ Photo ancienne: collection Sylvie Lelgoualc'h
 Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/488188110636747.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/488188103970081.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

@@ -33,7 +33,7 @@ Il est à remarquer que l’écriture du nom de ce village hésite continuelleme
 
 🖼️ Cadastre dit Napoléonien, Commune de Pont-Scorff, Section C du Bourg, 2e feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 9
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/414325124689713.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 ---
 

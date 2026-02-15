@@ -24,8 +24,8 @@ Il a été lu ce jour lors des commémorations du 8 mai qui ont eu lieu à Clég
 
 🖼️ Collection privée, Famille Huchet de Cintré
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/426246550164237.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/426246606830898.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

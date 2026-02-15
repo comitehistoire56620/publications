@@ -12,8 +12,8 @@ Cette bâtisse à toit de chaume pourrait dater du XVIème ou du début du XVII�
 🖼️ Photo ancienne: Archives du Morbihan
 Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/474900281965530.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/474900285298863.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

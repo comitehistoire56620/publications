@@ -20,7 +20,7 @@ Ce toponyme associe Ker au moyen breton queris, breton moderne keres, keles (cer
 
 🖼️ Section D de Kermorvant, 2ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 12
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/566755186113372.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 ---
 

@@ -29,7 +29,7 @@ Cette pratique, bien que contestée à la révolution, fut confirmée par la loi
 
 🖼️ Le bois de hêtres à Kerzardern, estampe, Henri RIVIERE, 1917. Musée Départemental Breton Cote 2002.24.2.
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/533836026071955.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

@@ -14,8 +14,8 @@ Photo aujourd’hui : © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
 
 Atelier d'Estienne - Centre d'art contemporain AU RAT QUI PETE
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/462314013224157.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/462314009890824.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

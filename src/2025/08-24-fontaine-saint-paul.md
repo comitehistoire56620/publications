@@ -10,8 +10,8 @@ Avez-vous reconnu, la fontaine Saint-Paul ? Elle se trouve tout proche du villag
 🖼️ Photo 1997: © Inventaire Général ADAGP
 Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/760453630076859.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/760453676743521.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

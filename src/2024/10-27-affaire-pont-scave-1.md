@@ -29,7 +29,7 @@ Je me retourne vers le traducteur pour qu'il demande à Monsieur Gragnic s’il 
 
 🖼️ Chaumières bretonnes, estampe, Henri DELAVALLÉE, 1892. Musée Départemental Breton Cote 2008.4.3.
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/538853338903557.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

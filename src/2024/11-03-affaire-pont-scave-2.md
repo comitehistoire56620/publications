@@ -27,7 +27,7 @@ Vers deux heures de l'après- midi, le 16 août, Louis succombe à ses blessures
 
 🖼️ Un chemin près de Bannalec, peinture, Camille BERNIER, 1870. Musée d'arts de Nantes
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/543895111732713.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

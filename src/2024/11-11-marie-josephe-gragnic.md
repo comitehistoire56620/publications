@@ -11,9 +11,9 @@ L'année dernière en 1916, il était venu, avec ce papier, me dire que Yves, mo
 Yves participe à la bataille de la Somme  qui se déroula du 1er juillet au 18 novembre 1916 aux côtés des Britanniques et de ces toutes nouvelles machines métalliques, les premiers chars d’assaut Le champ de bataille est un bourbier, la pluie est glaciale, neige et blizzard mettent en échec les offensives. Il n'y a pas de tranchée à Sailly Saillisel pas d'abris pour se protéger. Yves, sur la ligne de front, saute d'un trou d'obus à moitié rempli d'eau à un autre trou d'obus. C'est à 14h, le 28 octobre 1916 qu'Yves perdra la vie dans cette mer de boue.
 Joseph, il a belle allure mon garçon dans son uniforme du 3ème régiment de hussard. Sur son cheval, il effectue des missions de reconnaissance. la guerre change, on n'a plus besoin des cavaliers ni des chevaux. Son régiment devient le régiment de cuirassiers à pied.  Il doit s'enterrer dans les tranchées. L'hiver 1916-1917 est le plus froid de toute la guerre, les boules de pain noir, pour le ravitaillement, arrivent gelées. Les soldats ne se reposent pas, ne se déshabillent pas. Parfois en cas de bombardement la nourriture n'est pas livrée et ils peuvent rester plusieurs jours sans manger. Quand elle arrive, la boue et la terre se mélangent à leurs aliments. La vie dans les tranchées est un enfer.  .   Et puis.... il y a ce 20 janvier 1917 à Choisy Au Bac entre Paris et Amiens. Ce jour là, 2 blessés par éclats de mines sont inscrits sur le journal de bord du régiment et il y a un tué, Joseph Marie GRAGNIC, mon fils.
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/549758851146339.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/549758777813013.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/videos/381335018301911.mp4)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

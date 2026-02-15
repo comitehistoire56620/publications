@@ -12,8 +12,8 @@ Ce bâtiment, qui se trouve sur la berge côté Cleguer, fût autrefois une bras
 
 Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/714806434641579.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/714806477974908.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

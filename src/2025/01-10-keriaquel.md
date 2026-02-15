@@ -34,8 +34,8 @@ Nous reparlerons plus longuement de cette chapelle plus tard.
 
 🖼️ Carte de l'état-major (1820-1866) et cart IGN Géoportail
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/590519267070297.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/590519270403630.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

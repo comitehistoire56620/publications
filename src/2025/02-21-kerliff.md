@@ -30,8 +30,8 @@ Carte IGN Géoportail
 
 Ti Boser ar Skoff
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/619658320823058.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/619658324156391.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

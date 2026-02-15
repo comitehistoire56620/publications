@@ -29,8 +29,8 @@ Ce toponyme associe pen (bout, extrémité) et menez, manez (montagne, lande). C
 
 Carte IGN Géoportail
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/668271125961777.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/668271129295110.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 ---
 

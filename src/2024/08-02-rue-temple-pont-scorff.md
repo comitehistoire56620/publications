@@ -15,8 +15,8 @@ En haut de la rue on aperçoit les bâtiments où se trouvent actuellement la Bo
 Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
 Boucherie Charcuterie Traiteur - Maison DORSO Biocoop les 7 épis Atelier d'Estienne - Centre d'art contemporain
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/479148318207393.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/479148321540726.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

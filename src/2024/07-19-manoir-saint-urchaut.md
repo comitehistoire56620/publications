@@ -16,8 +16,8 @@ Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
 
 Tier Ha Tud - Pont-Scorff
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/470714862384072.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/470714859050739.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

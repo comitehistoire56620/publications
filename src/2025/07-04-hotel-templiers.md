@@ -15,8 +15,8 @@ On sait cependant que l'ordre des Templiers était installé au Bas Pont-Scorff 
 
 Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/720331807422375.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/720331847422371.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

@@ -8,9 +8,9 @@ Ces 25 et 26 octobre se tient à Pont-Scorff le Sitrouilhez deiz  organisé dés
 
 Ses adhérents avaient commencé la culture des cucurbitacées à Saint-Urchaud (photo en noir et blanc)  et proposé leur 1ère production à la Fête de l'automne de 1996.  En 2004, l'Horticulture décide de se dissocier de l'animation de Tier ha tud et met en place un 1er marché sur la place avant d'organiser, à partir de 2005, une grande fête des Cucurbitacées à la salle omnisports. Le Jour J le public venait en nombre très important  pour acheter les citrouilles que l'association cultivait notamment à Kerleau mais aussi pour se régaler  grâce aux nombreuses préparations de ses cordons bleus
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/809968405125381.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/809968425125379.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/809968428458712.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

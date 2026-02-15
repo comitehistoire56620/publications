@@ -12,8 +12,8 @@ Le bâtiment a été rénové  dans les années 2000.
 🖼️ Photo ancienne:  collection privée Yvonnick Le Coupannec.
 Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/733412919447597.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/733412962780926.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

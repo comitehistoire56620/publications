@@ -20,7 +20,7 @@ Ce toponyme associe ker, village, au patronyme Paul, prononcé Paoul en breton. 
 
 🖼️ Section A de Kerlau, 3eme feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 5
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/532375819551309.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

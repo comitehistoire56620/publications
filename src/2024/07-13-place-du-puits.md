@@ -11,8 +11,8 @@ On voit au premier plan le mur qui entourait l’église et le presbytère. Au f
 🖼️ Photo ancienne: collection Sylvie Lelgoualc'h
 Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/467055699416655.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/467055692749989.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

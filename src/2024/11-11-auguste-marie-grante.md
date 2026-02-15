@@ -11,10 +11,10 @@ Ce 12 juillet 1915, au matin, dans le ravin de Kérévés Déré, nous devons en
 Enfin, le 10 décembre 1915, l’échec des Dardanelles est reconnu, Churchill démissionne et le retour des troupes est organisé. C’est la seule opération qui sera menée avec succès. 
 Mais il est trop tard pour moi. Mon corps restera dans ce ravin de Kérévés Déré dans ce terrible combat des Dardanelles.
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/549770751145149.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/549770711145153.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/549770731145151.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/videos/943316234276246.mp4)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

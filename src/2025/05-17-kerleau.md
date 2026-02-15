@@ -28,8 +28,8 @@ Ce toponyme associe ker et le nom de personne Haelou composé de l’adjectif ha
 
 Carte IGN Géoportail
 
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/683701117752111.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/683701141085442.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

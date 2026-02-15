@@ -12,8 +12,8 @@ Sur le tableau, en bas à droite, on peut lire “Pont-Scorff le matin, 27 juill
 🖼️ Tableau d’Auguste Nayel, collection privée.
 Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/752219417566947.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Telechargementsmobiles_388835470572012/752219457566943.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

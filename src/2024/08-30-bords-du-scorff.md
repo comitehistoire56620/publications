@@ -16,8 +16,8 @@ En arrière-plan, derrière la roche, on distingue une palissade, et derrière, 
 🖼️ Photo ancienne: collection privée
 Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/497201459735412.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/497201463068745.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

@@ -23,8 +23,8 @@ Si vous aussi vous avez des photos, des souvenirs de La Saint-Aubin, son pardon,
 Cet article vous a été proposé par Yvonnick Le Coupannec. Il est le fruit de différentes recherches.  
 Source : Ouest-France, Cinémathèque de Bretagne.
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/620785394043684.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/620785427377014.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

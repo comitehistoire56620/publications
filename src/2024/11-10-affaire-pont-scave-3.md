@@ -21,7 +21,7 @@ Les quatre compères ont visiblement repris le chemin vers Lorient avant d'atter
 
 🖼️L'arrivée des voyageurs à l'auberge, estampe d’Anthonie Waterloo, BnF - Bibliothèque nationale de France Galica cote ark:/12148/cb44194979s
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/548881171234107.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

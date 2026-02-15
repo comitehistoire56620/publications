@@ -13,8 +13,8 @@ A l'angle de la rue se trouvait le Bar du Stade que l'on connaît mieux sous le 
 
 Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/772551152200440.jpg)
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/772551148867107.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 
 ---

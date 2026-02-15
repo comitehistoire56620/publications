@@ -20,7 +20,7 @@ Voici la liste des graphies qui ont pu être retrouvées pour ce lieu:
 
 🖼️ Section D de Kermorvant, 1re feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 11
 
-![Image](this_profile's_activity_across_facebook/posts/media/Photos_129463553175873/424393297016229.jpg)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
 ---
 
