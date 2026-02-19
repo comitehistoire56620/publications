@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Kerteuf
-
-🏘️ Connaissez vous le lieu dit Kerteuf, sur la route entre Pont-Scorff et Rédéné ? Savez vous d'où vient se nom de lieu ? Est ce que c’était un village ou on aimait faire “la teuf” ? On vous explique :
 
 Ce toponyme est récent car il n'apparaît pas sur le cadastre de 1818.
 
@@ -11,14 +8,9 @@ Il vient de ker suivi du nom de famille (Le) Teuff, variante de (Le) Teoff ou en
 
 Il est déjà traduit dans certains documents par (Le) Gros. Le nom de famille, Le Theu est bien présent dans la paroisse voisine d’Arzano dès le milieu du XVe siècle.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+![Image](./images/kerteuf-ign.png)
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
-
-🖼️ Carte IGN Géoportail
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Carte IGN*
 
 ---
 

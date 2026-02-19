@@ -5,9 +5,6 @@ src = "src"
 title = "Publications - Version Imprimable"
 description = "Version imprimable des publications."
 
-# Use the generated summary file
-summary = "SUMMARY_PRINT.md"
-
 [output.html]
 no-section-label = true
 
