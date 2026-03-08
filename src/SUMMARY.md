@@ -91,6 +91,10 @@
     - [Lann-Hir](2025/12-06-lann-hir.md)
     - [Kervarzaouën](2025/12-14-kervarzaouen.md)
 
+- [2026](2026/SUMMARY.md)
+    - [Kerguen](2026/kerguen.md)
+    - [Kerignien](2026/kerignien.md)
+
 # Thèmes
 
 ## Toponymes
