@@ -20,22 +20,21 @@ Quand je serai grande j’irai me recueillir sur ta tombe. Elle porte le numéro
 
 J’avais 7 ans quand tu es parti pour la Grande Guerre et tu n’es pas rentré pour Noël.
 
-![](images/herpe/fernande.jpg)
+![Image](./images/fernande-herpe.jpg)
 
 *Fernande Herpe à 14 ans (1923). Collection Famille Herpe.*
 
-![](images/herpe/joachim.jpg)
+![Image](./images/joachim-herpe.jpg)
 
 *Joachim Herpe, service militaire vers 1912. Collection Famille Herpe.*
 
 [Article du Shreveport Times - Dimanche 10 avril 1921 - Page 15](https://www.newspapers.com/image/208848230)
 
-
 ---
 
 Un texte de Sylvie Lelgoualc'h.
 
-Lu par Sylvie Lelgoualc'h lors des comémorations du 11 novembre 2025.
+Lu par Sylvie Lelgoualc'h lors des comémorations du 11 novembre 2025 à Cléguer.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 11 novembre 2025.
 

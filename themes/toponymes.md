@@ -36,3 +36,5 @@
   - [Kerleau](2025/05-17-kerleau.md)
   - [Lann-Hir](2025/12-06-lann-hir.md)
   - [Kervarzaouën](2025/12-14-kervarzaouen.md)
+  - [Kerguen](2026/03-01-kerguen.md)
+  - [Kerignen](2026/03-08-kerignen.md)

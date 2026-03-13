@@ -3,20 +3,15 @@
 
 # Moulin de Saint Yves
 
-Avez-vous reconnu le Moulin de Saint Yves (photo prise côté Cléguer)?
+![Image](./images/moulin-saintyves-vers-1900.jpg)
 
-La photo d’aujourd’hui est prise depuis la berge alors que celle de la carte postale est prise d’un peu plus en hauteur. On vous partage en commentaire la photo prise du même angle que la carte postale mais vous ne verrez pas grand-chose, à cause de la végétation.
+*Vers 1900, carte postale, collection privée*
 
-🔜 Cet été, nous vous proposerons chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+![Image](./images/moulin-saintyves-2024-1.jpeg)
 
-🖼️ Photo ancienne: collection privée
-Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
+![Image](./images/moulin-saintyves-2024-2.jpeg)
 
-Domaine du Moulin de Saint-Yves
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*En 2024, photos de Pierre-Loup Tristant*
 
 ---
 

@@ -24,7 +24,7 @@ En 1861 on trouvait déjà un café au lieu-dit l'Enfer et l'outil de levage qu'
 
 ![Image](./images/lenfer-ign-1950.png)
 
-*Cartes IGN 1950, IGN*
+*Cartes IGN 1950*
 
 ---
 

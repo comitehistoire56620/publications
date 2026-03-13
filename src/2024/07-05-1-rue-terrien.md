@@ -3,21 +3,17 @@
 
 # 1 rue Terrien
 
-Avez-vous reconnu le 1 rue Terrien à Pont-Scorff  ?
-
 Au premier plan, l’aile nord de l’Atelier d’Estienne qui hébergeait à la fin des années 90 la médiathèque. Au second plan on voit le bar Au Rat Qui Pète.
 
 🔜 Cet été, nous vous proposeront chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
 
-🖼️ Photo ancienne : Patrimoines & Archives du Morbihan 
-Photo aujourd’hui : © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
+![Image](./images/atelier-destienne-1970.jpg)
 
-Atelier d'Estienne - Centre d'art contemporain AU RAT QUI PETE
+*En 1970, photo des Archives du Morbihan*
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](./images/atelier-destienne-2024.jpeg)
 
-
+*En 2024, photo de Pierre-Loup Tristant*
 ---
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 5 juillet 2024.

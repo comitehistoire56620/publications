@@ -1,9 +1,8 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Locunolé (Nocunolé)
 
-🏘️ Locunolé est un toponyme très répandu en Bretagne, mais à Pont-Scorff il s'écrit un peu différemment : Nocunolé. On vous détaille aujourd'hui ce que ce nom signifie.
+Locunolé est un toponyme très répandu en Bretagne, mais à Pont-Scorff il s'écrit un peu différemment : Nocunolé.
 
 Sa première graphie relevée dans des documents anciens est  Locguennolay 1508. Puis on trouve :
 - Locguenholay 1540
@@ -17,13 +16,9 @@ Sa première graphie relevée dans des documents anciens est  Locguennolay 1508.
 
 Il associe Loc au patronyme Guenolay (Saint Guenolé, abbé fondateur de l’Abbaye de Landévennec). Au XVIIe siècle, une mauvaise interprétation du L initial, pris pour l’article français, a conduit à lui substituer un N, pour l’article breton an.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
+![Image](./images/nocunole-cadastre-1818.jpg)
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
-
-🖼️ Section A de Kerlau, 3eme feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 5
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+*Cadastre napoléonien - Section A de Kerlau, 3eme feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 5*
 
 ---
 

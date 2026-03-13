@@ -12,7 +12,7 @@ Cette explication de l’étymologie de Pont-Scorff semble être la plus cohére
 
 ![Image](./images/pont-scorff-cadastre-1818.jpg)
 
-*Cadastre dit Napoléonien, Commune de Pont-Scorff, Section C du Bourg, 2e feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 9.*
+*Cadastre napoléonien - Commune de Pont-Scorff, Section C du Bourg, 2e feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 9.*
 
 ---
 

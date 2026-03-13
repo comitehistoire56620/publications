@@ -3,8 +3,6 @@
 
 # Kergeris
 
-🏘️ Continuons à explorer les toponymes de Pont-Scorff. Après Kermerien la semaine passée, voici un autre village du sud de la commune: Kergeris.
-
 Pas de surprise avec ce toponyme dont les graphies anciennes sont constantes. Elles hésitent seulement entre K/gueris et K/guiris :
 
 - K/gueris 1410, 1430, 1432, 1508, 1668, 1689, 1771, 1790
@@ -14,14 +12,9 @@ Il y a, toutefois, quelques nuances avec : village noble de K/guiris, manoir de 
 
 Ce toponyme associe Ker au moyen breton queris, breton moderne keres, keles (cerises et cerisiers). Ce village devait sans doute comporter beaucoup de cerisiers.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
-
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
-
-🖼️ Section D de Kermorvant, 2ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 12
-
 ![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
+*Cadastre napoléonien - Section D de Kermorvant, 2ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 12*
 ---
 
 Un texte de Michel Pothier. 

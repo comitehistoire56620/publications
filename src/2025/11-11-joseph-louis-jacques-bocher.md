@@ -26,18 +26,18 @@ J’ai vu mon grand frère Joseph pour la dernière fois ce jour du 27 août 191
 Pour ma part, j’ai été fait prisonnier ce même jour. Je resterai 51 mois au camp Sienne près de Paderborn, en Westphalie.
 Je serai libéré le 24 décembre 1918. Et contrairement à Joseph, j’aurai la chance de revoir notre village de Kervennec."
 
-![](./images/bocher/joseph.jpg)
+![Image](./images/joseph-bocher-1907.jpg)
 
-*Joseph Bocher, service militaire vers 1907. Collection Famille Bocher-Tristant.*
+*Joseph Bocher, service militaire vers 1907. Collection Famille Bocher.*
 
-![](./images/bocher/pierre.jpg)
+![Image](./images/bocher/pierre-bocher-1914.jpg)
 
-*Pierre Bocher, prisonnier au camps de Sienne (Paderborn) en Westphalie. Collection Famille Bocher-Tristant.*
+*Pierre Bocher vers 1914, prisonnier au camps de Sienne (Paderborn) en Westphalie. Collection Famille Bocher.*
 
 ---
 
 Un texte de Pierre-Loup Tristant.
 
-Lu par Aubin et Pierre-Loup Tristant lors des comémorations du 11 novembre 2025.
+Lu par Aubin et Pierre-Loup Tristant lors des comémorations du 11 novembre 2025 à Pont-Scorff.
 
 Copyright &copy; Comité Histoire et Patrimoine de Cléguer Pont-Scorff

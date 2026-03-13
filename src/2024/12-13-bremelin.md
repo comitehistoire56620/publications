@@ -3,7 +3,7 @@
 
 # Bremelin
 
-🏘️ Entre Kergueris et Keriaquel vous trouverez un très joli point de vue sur le bourg de Pont-Scorff. Vous trouverez aussi, un peu plus au sud, le village de Bremelin. Dans les documents anciens deux noms désignent le même village, ceux sont Bremelin et Fremeur.
+Dans les documents anciens deux noms désignent le même village, ceux sont Bremelin et Fremeur.
 
 Les graphies relevées sont les suivantes :
 
@@ -22,14 +22,11 @@ Les graphies relevées sont les suivantes :
 Ce village est situé sur un sommet qui domine la vallée du Scave. Le toponyme associe “bre”, “bren” (sommet) et le nom de personne Melin. Ce nom de famille, Moulin en français, est très répandu dans la paroisse de Lesbin au XVIe siècle. 
 Le nom du lieu noble de Fremeur, possédé par Michel Gaschet, seigneur de Brémelin en 1683 et le moulin de Fremeur, semble indiquer que le Scave ait pu porter aussi à cet endroit ce nom, issu de frout (cours d’eau rapide), devenant fret puis fre et meur (grand).
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
+![Image](./images/bremelin-cadastre-1818.jpg)
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
+![Image](./images/fremeur-cadastre-1818.jpg)
 
-🖼️ Section D de Kermorvant, 2ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 12
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+*Cadastre napoléonien - Section D de Kermorvant, 2ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 12*
 
 ---
 

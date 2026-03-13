@@ -93,7 +93,7 @@
 
 - [2026](2026/SUMMARY.md)
     - [Kerguen](2026/kerguen.md)
-    - [Kerignien](2026/kerignien.md)
+    - [Kerignen](2026/kerignen.md)
 
 # Thèmes
 

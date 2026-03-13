@@ -1,7 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# L'affaire de Pont-Scave (2/4)
+# L'affaire de Pont-Scave - Gervais Gragnic
 
 Le 15 août 1787, au village Kermorgant à Pont-Scorff, il est 10h du soir quand Gervais Gragnic est réveillé par des voix qui lui supplient d’ouvrir la porte.
 
@@ -19,18 +18,15 @@ Le lendemain matin, c’est sa femme Henriette qui frappe à la porte. Elle a é
 
 Vers deux heures de l'après- midi, le 16 août, Louis succombe à ses blessures.”
 
-🔜Ce post est le deuxième d’une série de quatre épisodes sur l’affaire de Pont-Scave. N’hésitez pas à vous abonner à notre page pour savoir la suite. Vous y retrouverez également les épisodes précédents:
+![Image](./images/chemin-bannalec-camille-bernier.jpg)
 
- - Charles Denis Sepion de Tallennec
-
-🙏 Cette histoire vous a été proposée par Pierre-Loup Tristant et est basée sur des procès verbaux trouvés et retranscrits par Eric Le Guennec
-
-🖼️ Un chemin près de Bannalec, peinture, Camille BERNIER, 1870. Musée d'arts de Nantes
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Un chemin près de Bannalec, peinture, Camille BERNIER, 1870. Musée d'arts de Nantes*
 
 ---
+
+Un texte de Pierre-Loup Tristant
+
+Source: procès verbaux trouvés et retranscrits par Eric Le Guennec.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 3 novembre 2024.
 

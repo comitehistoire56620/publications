@@ -35,7 +35,7 @@ Quant au Bas Kerlonic de la carte de Cassini nous n’avons pas d’explication.
 
 ![Image](./images/kerhuic-cadastre-1818.jpg)
 
-*Section E de Kervic, 2eme feuille, 1818. Patrimoines & Archives du Morbihan  cote 3 P 225 14*
+*Cadastre napoléonien - Section E de Kervic, 2eme feuille, 1818. Patrimoines & Archives du Morbihan  cote 3 P 225 14*
 
 ---
 

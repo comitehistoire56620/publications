@@ -1,9 +1,8 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Manebily
 
-🏘️ Connaissez vous le village de Manebily à Pont-Scorff ? Aujourd’hui nous vous racontons l'origine de ce nom :
+Voici quelques graphies anciennes relevées dans divers documents :
 
 - Menez Billy 1559
 - Manez Billy 1578
@@ -15,14 +14,8 @@
 
 On peut voir dans ce toponyme l’association de menez, manez (montagnes, landes) avec le nom de personne Bili ( Redon en 857). Dom L. Gougaud (Les chrétientés celtiques, ed. Armeline, 1995, p. 163) nous apprend que Bili est le biographe de Saint Malo.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
-
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
-
-🖼️ Section A de Kerlau, 2ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 4
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+![Image](./images/manebily-cadastre-1818.jpg)
+*Cadastre napoléonien - Section A de Kerlau, 2ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 4*
 
 ---
 

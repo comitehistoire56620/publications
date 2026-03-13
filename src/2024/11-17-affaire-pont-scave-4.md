@@ -1,7 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# L'affaire de Pont-Scave (4/4)
+# L'affaire de Pont-Scave - Louis Coeffic
 
 Le 15 août 1787, Louis Coeffic du village de Penmané rentre du pardon de Notre Dame de Bonsecours à Queven. Il est en compagnie de Corentin Le Gueldre du village de Kergelavant et de quelques autres paroissiens de Lesbin (actuelle commune de Pont-Scorff).
 
@@ -11,20 +10,15 @@ Quand nous arrivons à leur hauteur, ils nous demandent, en français, si c’es
 
 Les 3 autres gars sortent à leur tour leur sabre et se dirigent vers moi.”
 
-🔜Ce post est le dernier d’une série de quatre épisodes sur l’affaire de Pont-Scave. Retrouverez les épisodes précédents sur notre page :
+![Image](./images/paysage-bandits-claude-lorrain.jpeg)
 
-- Charles Denis Sepion de Tallennec
-- Gervais Gragnic
-- L’aubergiste
-
-🙏 Cette histoire vous a été proposée par Pierre-Loup Tristant et est basée sur des procès verbaux trouvés et retranscrits par Eric Le Guennec
-
-🖼️ Paysage avec des bandits, auteur Claude Lorrain, graveur Richard Earlom, BnF - Bibliothèque nationale de France Gallica, cote ark:/12148/cb45920647f
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Paysage avec des bandits, auteur Claude Lorrain, graveur Richard Earlom, BnF - Bibliothèque nationale de France Gallica, cote ark:/12148/cb45920647f*
 
 ---
+
+Un texte de Pierre-Loup Tristant
+
+Source: procès verbaux trouvés et retranscrits par Eric Le Guennec.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 17 novembre 2024.
 

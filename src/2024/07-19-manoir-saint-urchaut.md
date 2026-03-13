@@ -1,24 +1,16 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Manoir de Saint-Urchaut
-
-Avez-vous reconnu le manoir de Saint-Urchaut à Pont-Scorff ?
 
 Sur le tableau, en bas à gauche, on peut lire “Saint-Truchaut, 5 juillet 1896”. En bas à droite, on reconnaît la signature du sculpteur et dessinateur lorientais Auguste Nayel.
 
-Rendez-vous ce dimanche 21 juillet pour une édition exceptionnelle de la fête "Du Blé au Pain" lors de laquelle nous célébrerons les 30 ans de l’association Tier-Ha-Tud.
+![Image](./images/saint-urchaut-1896.jpg)
 
-🔜 Cet été, nous vous proposerons chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+*En 1896, Tableau d’Auguste Nayel, collection privée.*
 
-🖼️ Tableau d’Auguste Nayel, collection privée.
-Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
+![Image](./images/saint-urchaut-2024.jpeg)
 
-Tier Ha Tud - Pont-Scorff
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*En 2024, photo de Pierre-Loup Tristant*
 
 ---
 

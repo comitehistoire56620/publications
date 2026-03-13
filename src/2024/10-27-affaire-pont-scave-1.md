@@ -1,7 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# L'affaire de Pont-Scave (1/4)
+# L'affaire de Pont-Scave - Charles Denis Sepion de Tallennec
 
 Le 16 août 1787, un avocat du nom de Charles Denis Sepion de Tallennec quitte la ville de Lorient en direction du village de Kermorgant, en la paroisse de Lesbin (aujourd’hui Pont-Scorff).
 
@@ -23,16 +22,15 @@ En enlevant le bandage qui lui recouvrait la tête, je vois apparaître un visag
 
 Je me retourne vers le traducteur pour qu'il demande à Monsieur Gragnic s’il connaît l'identité de cet homme. Monsieur Gragnic répond qu’il le connaît bien: c’est Louis Coeffic du village de Pen Mané.”
 
-🔜 Ce post est le premier d’une série de quatre épisodes sur l’affaire de Pont-Scave. N’hésitez pas à vous abonner à notre page pour connaître la suite.
+![Image](./images/chaumieres-bretonnes-henri-delavallee.jpg)
 
-🙏 Cette histoire vous a été proposée par Pierre-Loup Tristant et est basée sur des procès verbaux trouvés et retranscrits par Eric Le Guennec.
-
-🖼️ Chaumières bretonnes, estampe, Henri DELAVALLÉE, 1892. Musée Départemental Breton Cote 2008.4.3.
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Chaumières bretonnes, estampe, Henri DELAVALLÉE, 1892. Musée Départemental Breton Cote 2008.4.3.*
 
 ---
+
+Un texte de Pierre-Loup Tristant
+
+Source: procès verbaux trouvés et retranscrits par Eric Le Guennec.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 27 octobre 2024.
 

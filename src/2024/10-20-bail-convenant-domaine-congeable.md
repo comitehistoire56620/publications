@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Le bail à convenant (Domaine congéable)
-
-Dans notre poste du 20 septembre 2024 nous avons évoqué le bail à convenant ou domaine congéable à l’origine du nom de ce village de Gomenan.
 
 C'est un type de bail, très fréquent en Basse Bretagne jusqu’au XIXe siècle. Une convention par laquelle un propriétaire, généralement un seigneur, vend les édifices à un preneur (domanier) et lui cède, moyennant une rente annuelle et une commission, la jouissance du fond de la tenue (terre concédée à un vassal ou à un tenancier non noble par un seigneur) :
 
@@ -25,12 +22,9 @@ Quand un bâtiment tombait en ruine, le domanier pouvait le réédifier, mais da
 
 Cette pratique, bien que contestée à la révolution, fut confirmée par la loi du 6 août 1791. Elle est supprimée le 26 août 1792 puis rétablie par la loi du 9 brumaire an VI (Oct-Nov 1797).
 
-🙏 Cette publication vous a été proposée par Michel Pothier.
+![Image](./images/bois-hetres-kerzardern-eugene-verneau.jpg)
 
-🖼️ Le bois de hêtres à Kerzardern, estampe, Henri RIVIERE, 1917. Musée Départemental Breton Cote 2002.24.2.
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Le bois de hêtres à Kerzardern, estampe, Henri RIVIERE, 1917. Musée Départemental Breton Cote 2002.24.2.*
 
 ---
 

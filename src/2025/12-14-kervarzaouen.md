@@ -12,11 +12,11 @@ Les graphies de ce nom de village ont beaucoup évolué avec le temps et rendent
 Ce toponyme associe « Ker » à un nom de personne qui commence systématiquement par « mar » ; cela rend difficile de songer au nomen Morguethen cité dans le cartulaire de Redon en 833, qui donne Morvezen aujourd’hui. 
 En revanche la forme de 1508 renvoie à Marchuueten de « march » (cheval) et « uueten » (combat).
 
-![](.\images\kervarzaouen\cadastre-1818.jpg)
-*Cadastre napoléonien - Section E de Kervic (Kerhuic), 1ème feuille, 1818 - Archives du Morbihan cote 3 P 225 13*
+![Image](.\images\kervarzaouen-cadastre-1818.jpg)
+*Cadastre napoléonien - Section E de Kervic (Kerhuic), 1re feuille, 1818 - Archives du Morbihan cote 3 P 225 13*
 
-![](.\images\kervarzaouen\plan-ign.png)
-*Carte IGN Géoportail*
+![Image](.\images\kervarzaouen-ign.png)
+*Carte IGN*
 
 ---
 

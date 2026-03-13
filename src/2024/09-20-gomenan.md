@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Gomenan
-
-🏘️ Cette semaine nous reprenons la série de posts sur les origine des noms de villages. Aujourd’hui nous vous racontons le village de Gomenan.
 
 Ce toponyme est assez particulier aussi bien par sa rareté que par sa signification.
 Voici quelques graphies relevées dans des documents anciens 
@@ -23,14 +20,9 @@ Le moyen breton comanant est un emprunt au roman co(n)venant. Il désigne à l�
 
 Le bail à convenant ou à domaine congéable un type de bail assez particulier que nous aurons peut être l’occasion de vous présenter dans une prochaine publication.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
+![Image](./images/gomenan-cadastre-1818.jpg)
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
-
-🖼️ Section A de Kerlau, 3eme feuille, 1818. Archives départementales du Morbihan cote 3 P 225 5
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Cadastre napoléonien - Section A de Kerlau, 3eme feuille, 1818. Archives départementales du Morbihan cote 3 P 225 5*
 
 ---
 

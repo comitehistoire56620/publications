@@ -3,18 +3,15 @@
 
 # Lann Hir
 
-Avez-vous reconnu le village de Lann Hir à Pont-Scorff ?
-
 Cette bâtisse à toit de chaume pourrait dater du XVIème ou du début du XVIIème. Le village qui se trouve en bordure du site de traitement des déchets est aujourd’hui à l’abandon.
 
-🔜 Cet été, nous vous proposerons chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+![Image](./images/lannhir-1970.jpg)
 
-🖼️ Photo ancienne: Archives du Morbihan
-Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
+*En 1970, photo des Archives du Morbihan*
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](./images/lannhir-2024.jpeg)
 
+*En 2024, photo de Pierre-Loup Tristant*
 
 ---
 

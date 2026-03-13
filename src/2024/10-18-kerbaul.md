@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Kerbaul
-
-🏘️ Connaissez vous le village de Kerbaul a Pont-Scorff ? Aujourd’hui nous vous racontons l'origine de ce nom : 
 
 - K/paul 1508
 - K/paoul 1559
@@ -14,14 +11,9 @@
 
 Ce toponyme associe ker, village, au patronyme Paul, prononcé Paoul en breton. Paul Arélien, fondateur de l’évêché du Leon était un disciple d’Ildut au Pays de Galles.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
+![Image](./images/kerbaul-cadastre-1818.jpg)
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
-
-🖼️ Section A de Kerlau, 3eme feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 5
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Cadastre napoléonien - Section A de Kerlau, 3eme feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 5*
 
 ---
 

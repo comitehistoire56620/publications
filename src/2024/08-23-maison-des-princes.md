@@ -1,20 +1,20 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Place de la Maison des Princes
 
-Avez-vous reconnu le 30 Place de la Maison des Princes à Pont-Scorff ?
+1 le commerce qui se trouvait au rez-de-chaussée (1958-1985): la boutique de Mme Le Chaton (bazar) s'appelait Au Bouton d'Or. Vous en trouverez quelques photos en commentaire.
 
-Certains d’entre vous ont sûrement connu le commerce qui se trouvait au rez-de-chaussée (1958-1985): la boutique de Mme Le Chaton (bazar) s'appelait Au Bouton d'Or. Vous en trouverez quelques photos en commentaire.
+![Image](./images/30-place-de-la-maison-des-princes-vers-1900.jpg)
 
-🔜 Cet été, nous vous proposerons chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+*Vers 1900, carte postale, collection Sylvie Lelgoualc'h*
 
-🖼️ Photo ancienne: collection Sylvie Lelgoualc'h
-Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
+![Image](./images/30-place-de-la-maison-des-princes-1970.jpg)
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+*En 1970, photo, collection famille Le Chaton*
 
+![Image](./images/30-place-de-la-maison-des-princes-2024.jpeg)
+
+*En 2024, photo de Pierre-Loup Tristant*
 
 ---
 

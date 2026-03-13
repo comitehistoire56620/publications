@@ -3,17 +3,15 @@
 
 # Place du Puits
 
-Avez-vous reconnu la Place du Puits à Cléguer  ?
 On voit au premier plan le mur qui entourait l’église et le presbytère. Au fond, sur la place il y a le Café “A la remontée du bon cidre”, là ou se trouve aujourd’hui le Bar Restaurant Pizzeria Le Puisatier.
 
-🔜 Cet été, nous vous proposerons chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+![Image](./images/place-du-puits-cleguer-vers-1900.jpg)
 
-🖼️ Photo ancienne: collection Sylvie Lelgoualc'h
-Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
+*Vers 1900, Carte postale, collection Sylvie Lelgoualc'h*
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](./images/place-du-puits-cleguer-2024.jpeg)
 
+*En 2024, photo de Pierre-Loup Tristant*
 
 ---
 

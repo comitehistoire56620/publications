@@ -26,7 +26,7 @@ Il est à remarquer que l’écriture du nom de ce village hésite continuelleme
 
 ![Image](./images/restrezerch-cadastre-1818.jpg)
 
-*Cadastre dit Napoléonien, Commune de Pont-Scorff, Section C du Bourg, 2e feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 9*
+*Cadastre napoléonien - Commune de Pont-Scorff, Section C du Bourg, 2e feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 9*
 
 ---
 

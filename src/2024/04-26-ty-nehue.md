@@ -9,7 +9,7 @@ En breton “Ty” se traduit bien par “maison” et “nevez” (prononcer �
 
 ![Image](./images/tynehue-cadastre-1818.jpg)
 
-*Section D de Kermorvant, 1re feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 11*
+*Cadastre napoléonien - Section D de Kermorvant, 1re feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 11*
 
 ---
 

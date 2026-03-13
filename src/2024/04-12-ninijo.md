@@ -25,7 +25,7 @@ L’appellation hésite entre le français et le breton. Toutefois il est toujou
 
 ![Image](./images/ninijo-cadastre-1818.jpg)
 
-*Cadastre dit Napoléonien, Commune de Pont-Scorff, Section D de Kermorvant, 1re feuille, 1818. Patrimoines & Archives du Morbihan, cote 3 P 225 11.*
+*Cadastre napoléonien - Commune de Pont-Scorff, Section D de Kermorvant, 1re feuille, 1818. Patrimoines & Archives du Morbihan, cote 3 P 225 11.*
 
 ![Image](./images/ninijo-hydrographie-2024.png)
 

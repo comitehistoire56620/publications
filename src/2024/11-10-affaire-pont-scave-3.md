@@ -1,7 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# L'affaire de Pont-Scave (3/4)
+# L'affaire de Pont-Scave - L'aubergiste
 
 Tard dans la nuit du 15 au 16 août 1787, dans une auberge du village de Kervegant :
 
@@ -12,19 +11,15 @@ Plus tôt dans la soirée, ils partirent de Lorient en direction de Pont-Scorff.
 
 Les quatre compères ont visiblement repris le chemin vers Lorient avant d'atterrir ici pour se vanter de leur méfaits”
 
-🔜Ce post est le troisième d’une série de quatre épisodes sur l’affaire de Pont-Scave. N’hésitez pas à vous abonner à notre page pour savoir la suite. Vous y retrouverez également les épisodes précédents:
+![Image](./images/arrivee-voyageurs-auberge-anthonie-waterloo.jpeg)
 
-- Charles Denis Sepion de Tallennec
-- Gervais Gragnic
-
-🙏 Cette histoire vous a été proposée par Pierre-Loup Tristant et est basée sur des procès verbaux trouvés et retranscrits par Eric Le Guennec
-
-🖼️L'arrivée des voyageurs à l'auberge, estampe d’Anthonie Waterloo, BnF - Bibliothèque nationale de France Galica cote ark:/12148/cb44194979s
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*L'arrivée des voyageurs à l'auberge, estampe d’Anthonie Waterloo, BnF - Bibliothèque nationale de France Galica cote ark:/12148/cb44194979s*
 
 ---
+
+Un texte de Pierre-Loup Tristant
+
+Source: procès verbaux trouvés et retranscrits par Eric Le Guennec.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 10 novembre 2024.
 

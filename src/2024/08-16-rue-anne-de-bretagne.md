@@ -1,20 +1,16 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Rue Anne de Bretagne
-
-Avez-vous reconnu la rue Anne de Bretagne à @Cléguer ?
 
 La carte postale mentionne le lieu-dit “Lann er Groez Rhu” (Lande de la Croix Rouge).
 
-🔜 Cet été, nous vous proposerons chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+![Image](./images/lann-er-groez-rhu-vers-1900.jpg)
 
-🖼️ Photo ancienne: collection Sylvie Lelgoualc'h
-Photo d’aujourd’hui: © 2024 par Pierre-Loup Tristant sous license CC BY 4.0
+* Vers 1900, carte postale, collection Sylvie Lelgoualc'h
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](./images/lann-er-groez-rhu-2024.jpeg)
 
+* En 2024, photo de Pierre-Loup Tristant
 
 ---
 
