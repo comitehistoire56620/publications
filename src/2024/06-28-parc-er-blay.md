@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Parc er Blay
+# Parc er Blay (Pont-Scorff)
 
 On sait que le nom Parc er Blay existe déjà en 1753 mais il n'apparaît pas sur le cadastre de 1818 qui ne mentionne pas le nom des champs.
 
@@ -8,7 +8,7 @@ Ce toponyme associé “parc” (champ) et le nom de famille Le Blaye qui est un
 
 ![Image](./images/park-er-blei-ign.png)
 
-*Carte IGN*
+*Carte SCAN25 © IGN 2024 – Copie et reproduction interdite*
 
 ---
 

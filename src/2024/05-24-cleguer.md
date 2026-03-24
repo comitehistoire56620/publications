@@ -19,7 +19,7 @@ Pour justifier cette proposition, on se réfère à de nombreux lieux-dits Clég
 
 ![Image](./images/cleguer-carte-etat-major.png)
 
-Carte de l'état-major (1820-1866), IGN
+*Carte de l'état-major (1820-1866), IGN*
 
 ---
 

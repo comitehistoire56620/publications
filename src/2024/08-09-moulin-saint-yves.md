@@ -1,7 +1,6 @@
-<!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
+<!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->    
 
-
-# Moulin de Saint Yves
+# Moulin de Saint Yves (Pont-Scorff)
 
 ![Image](./images/moulin-saintyves-vers-1900.jpg)
 
@@ -14,6 +13,8 @@
 *En 2024, photos de Pierre-Loup Tristant*
 
 ---
+
+Un texte de Pierre-Loup Tristant
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 9 août 2024.
 

@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kerblouch
+# Kerblouch (Pont-Scorff)
 
 Ce toponyme est ancien. En effet la première graphie relevée K/anblouch remonte à 1426. Elle ne varie pas beaucoup au cours des années sauf à partir de 1642 le “an” (Le) de K/anblouch disparaît pour donner K/blouch.
 

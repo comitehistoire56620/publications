@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kerdrien
+# Kerdrien (Pont-Scorff)
 
 Ce village est relativement ancien, sa première graphie connue remonte à 1414 : 
 

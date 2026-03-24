@@ -29,11 +29,11 @@ Ce nom de lieu est également un patronyme. Dans les deux cas on constate une ag
 
 🖼️ Section D de Kermorvant, 2ème feuille, 1818. @Patrimoines & Archives du Morbihan cote 3 P 225 12
 
-Carte IGN Géoportail
 
 ![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 ![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
+*Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
 
 ---
 

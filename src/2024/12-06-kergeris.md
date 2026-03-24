@@ -1,7 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# Kergeris
+# Kergeris (Pont-Scorff)
 
 Pas de surprise avec ce toponyme dont les graphies anciennes sont constantes. Elles hésitent seulement entre K/gueris et K/guiris :
 

@@ -28,11 +28,11 @@ Je serai libéré le 24 décembre 1918. Et contrairement à Joseph, j’aurai la
 
 ![Image](./images/joseph-bocher-1907.jpg)
 
-*Joseph Bocher, service militaire vers 1907. Collection Famille Bocher.*
+*Joseph Bocher, service militaire vers 1907, photo de collection privée, famille Bocher.*
 
 ![Image](./images/bocher/pierre-bocher-1914.jpg)
 
-*Pierre Bocher vers 1914, prisonnier au camps de Sienne (Paderborn) en Westphalie. Collection Famille Bocher.*
+*Pierre Bocher vers 1914, prisonnier au camps de Sienne (Paderborn) en Westphalie, photo de collection privée, famille Bocher.*
 
 ---
 

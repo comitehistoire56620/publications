@@ -1,7 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# Bremelin
+# Bremelin (Pont-Scorff)
 
 Dans les documents anciens deux noms désignent le même village, ceux sont Bremelin et Fremeur.
 

@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kerhuic
+# Kerhuic (Pont-Scorff)
 
 Ce village s’est divisé en deux au XVIe siècle. En effet ce n’est qu’en 1559 que l’on distingue Kerhuic Ihuel (le haut) et Kerhuic Izel (le bas).
 

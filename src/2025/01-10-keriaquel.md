@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# Keriaquel
-
-🏘️ En vous promenant sur la voie verte de Pont-Scorff en direction des Terres de Nataé, vous passerez juste à coté du village de Keriaquel. Voici l’histoire de son nom.
+# Keriaquel (Pont-Scorff)
 
 Les graphies anciennes de ce village sont nombreuses et variées :
 - K/yezequel 1413
@@ -22,6 +19,7 @@ Les graphies anciennes de ce village sont nombreuses et variées :
 
 Ce toponyme associe Ker au nom de personne Jezecael, issu du nomen Iedecael (Redon 869).
 Dans ce village se trouve la chapelle de Saint-Gildas :
+
 - Chapelle de monsieur Sainct Gilda 1616
 - Chapelle Saint Gilda 1658,
 - Saint Gildas 1783
@@ -32,10 +30,15 @@ Nous reparlerons plus longuement de cette chapelle plus tard.
 
 🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
 
-🖼️ Carte de l'état-major (1820-1866) et cart IGN Géoportail
+🖼️ Carte de l'état-major (1820-1866) et 
 
 ![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+
+*Carte de l'état-major (1820-1866)
+
 ![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+
+*Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
 
 
 ---

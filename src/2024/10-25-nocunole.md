@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Locunolé (Nocunolé)
+# Nocunolé (Pont-Scorff)
 
 Locunolé est un toponyme très répandu en Bretagne, mais à Pont-Scorff il s'écrit un peu différemment : Nocunolé.
 

@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Les bords du Scorff (en contrebas du chemin du Ronce)
+# Les bords du Scorff en contrebas du chemin du Ronce (Pont-Scorff)
 
 On a peine à reconnaître le lieu, tant la végétation s’est développée sur les berges. On reconnaît plusieurs indices sur cette carte postale si on fait bien attention: 
 
@@ -18,6 +18,8 @@ En arrière-plan, derrière la roche, on distingue une palissade, et derrière, 
 *En 2024, photo de Pierre-Loup Tristant*
 
 ---
+
+Un texte de Pierre-Loup Tristant
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 30 août 2024.
 

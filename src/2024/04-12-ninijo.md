@@ -29,7 +29,7 @@ L’appellation hésite entre le français et le breton. Toutefois il est toujou
 
 ![Image](./images/ninijo-hydrographie-2024.png)
 
-*Photographies aériennes et réseau hydrographique, IGN*
+*Photographies aériennes DB ORTHO et réseau hydrographique, IGN*
 
 ---
 

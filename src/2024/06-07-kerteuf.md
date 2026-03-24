@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kerteuf
+# Kerteuf (Pont-Scorff)
 
 Ce toponyme est récent car il n'apparaît pas sur le cadastre de 1818.
 
@@ -10,7 +10,7 @@ Il est déjà traduit dans certains documents par (Le) Gros. Le nom de famille, 
 
 ![Image](./images/kerteuf-ign.png)
 
-*Carte IGN*
+*Carte SCAN25 © IGN 2024 – Copie et reproduction interdite*
 
 ---
 

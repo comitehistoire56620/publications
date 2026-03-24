@@ -26,10 +26,11 @@ Ce toponyme associe ker et le nom de personne Haelou composé de l’adjectif ha
 
 🖼️ Section A de Kerleau, 3ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 5
 
-Carte IGN Géoportail
 
 ![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 ![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+
+*Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
 
 
 ---

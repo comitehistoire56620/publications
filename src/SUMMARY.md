@@ -44,7 +44,7 @@
     - [Kerdrien](2024/10-04-kerdrien.md)
     - [Kerbaul](2024/10-18-kerbaul.md)
     - [Le bail à convenant (Domaine congéable)](2024/10-20-bail-convenant-domaine-congeable.md)
-    - [Locunolé (Nocunolé)](2024/10-25-locunole.md)
+    - [Nocunolé](2024/10-25-nocunole.md)
     - [L'affaire de Pont-Scave (1/4)](2024/10-27-affaire-pont-scave-1.md)
     - [L'affaire de Pont-Scave (2/4)](2024/11-03-affaire-pont-scave-2.md)
     - [L'affaire de Pont-Scave (3/4)](2024/11-10-affaire-pont-scave-3.md)

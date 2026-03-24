@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Manebily
+# Manebily (Pont-Scorff)
 
 Voici quelques graphies anciennes relevées dans divers documents :
 
@@ -15,6 +15,7 @@ Voici quelques graphies anciennes relevées dans divers documents :
 On peut voir dans ce toponyme l’association de menez, manez (montagnes, landes) avec le nom de personne Bili ( Redon en 857). Dom L. Gougaud (Les chrétientés celtiques, ed. Armeline, 1995, p. 163) nous apprend que Bili est le biographe de Saint Malo.
 
 ![Image](./images/manebily-cadastre-1818.jpg)
+
 *Cadastre napoléonien - Section A de Kerlau, 2ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 4*
 
 ---

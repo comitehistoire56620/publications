@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kermerien
+# Kermerien (Pont-Scorff)
 
 Voici l’origine de ce nom:
 

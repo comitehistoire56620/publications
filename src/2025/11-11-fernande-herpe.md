@@ -26,7 +26,7 @@ J’avais 7 ans quand tu es parti pour la Grande Guerre et tu n’es pas rentré
 
 ![Image](./images/joachim-herpe.jpg)
 
-*Joachim Herpe, service militaire vers 1912. Collection Famille Herpe.*
+*Joachim Herpe, service militaire vers 1912, photo de collection privée, famille Herpe.*
 
 [Article du Shreveport Times - Dimanche 10 avril 1921 - Page 15](https://www.newspapers.com/image/208848230)
 

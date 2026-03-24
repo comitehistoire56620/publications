@@ -1,9 +1,9 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Gomenan
+# Gomenan (Pont-Scorff)
 
 Ce toponyme est assez particulier aussi bien par sa rareté que par sa signification.
-Voici quelques graphies relevées dans des documents anciens 
+Voici quelques graphies relevées dans des documents anciens :
 - Tenue et Convenant du Roch 1565
 - Tenue du Roch 1614
 - Tenue du Roch proche le bourg de Lesbin 1683

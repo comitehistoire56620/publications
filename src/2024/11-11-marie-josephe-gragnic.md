@@ -55,7 +55,7 @@ lits clos dans la pièce commune de la ferme de Kernaude. Ce sont mes héros, me
 
 ![Image](./images/gragnic.jpeg)
 
-*Marie-Josèphe Gragnic et ses fils, Collection Famille Gragnic* 
+*Marie-Josèphe Gragnic et ses fils, photo de collection privée, famille Gragnic*
 
 ---
 

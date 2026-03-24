@@ -24,7 +24,7 @@ C’est ma cousine Marguerite, de six ans mon aînée, qui m’a plus tard racon
 
 ![Image](./images/anne-marie-1942.jpg)
 
-*Photo de mariage d'Anne Marie, Collection Famille Gragnic* 
+*Photo de mariage d'Anne Marie Flècher, photo de collection privée, famille Gragnic*
 
 ---
 

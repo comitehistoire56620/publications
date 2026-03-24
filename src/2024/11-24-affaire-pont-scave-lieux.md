@@ -7,7 +7,7 @@ Louis Coeffic a trouvé la mort un peu plus loin au lieu-dit Lann Bihan (2). D�
 
 ![Image](images/pont-scave-ign.png))
 
-*Carte IGN*
+*Carte SCAN25 © IGN 2024 – Copie et reproduction interdite*
 
 ![Image](images/pont-scave-cadastre-1818.jpg)
 

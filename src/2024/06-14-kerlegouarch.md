@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kerlegouarch
+# Kerlegouarch (Pont-Scorff)
 
 Ce toponyme est récent car il n’est pas sur le cadastre de 1818.
 
@@ -8,7 +8,7 @@ Il associe Ker avec le nom de famille Helgouarc’h qui fait partie des noms bre
 
 ![Image](./images/kerlegouarch-ign.png)
 
-*Carte IGN*
+*Carte SCAN25 © IGN 2024 – Copie et reproduction interdite*
 
 ---
 

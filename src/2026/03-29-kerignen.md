@@ -12,7 +12,7 @@ Ce toponyme associe Ker (village) à un nom de personne non repéré. Faut-il le
 
 ![Image](./images/kerignen-ign.png)
 
-*Carte IGN*
+*Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
 
 ---
 
@@ -20,6 +20,6 @@ Un texte de Michel Pothier.
 
 Source: « Des sources de l’Ellé à l’Île de Groix », Jean-Yves Plourin et Pierre Holloco, édition Emgleo Breiz, 2014.
 
-Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 8 mars 2026.
+Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 29 mars 2026.
 
 Copyright &copy; Comité Histoire et Patrimoine de Cléguer Pont-Scorff

@@ -26,13 +26,11 @@ Ce toponyme associe Ker et un nom de famille Le Leff (anlev 1426) attesté dans 
 🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
 
 🖼️ Section C du Bourg, 3ème feuille, 1818. Patrimoines & Archives du Morbihan  cote 3 P 225 10
-Carte IGN Géoportail
-
-Ti Boser ar Skoff
 
 ![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 ![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
+*Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
 
 ---
 

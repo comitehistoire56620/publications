@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kerbaul
+# Kerbaul (Pont-Scorff)
 
 - K/paul 1508
 - K/paoul 1559

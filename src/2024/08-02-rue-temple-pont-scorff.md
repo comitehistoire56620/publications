@@ -1,7 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# Rue du Temple (Rue du Général de Langle de Cary)
+# Rue du Temple ou Rue du Général de Langle de Cary (Pont-Scorff)
 
 Cette rue s'appelait autrefois la "Rue du Temple”. Sur la carte postale on ne voit pas l’actuel bâtiment de l’Atelier d’Estienne qui est caché par l’Hôtel du Scorff. Ce bâtiment à été détruit vers 1993 au moment où ont commencé les travaux de réhabilitation du bâtiment où se trouve aujourd'hui la galerie d’art.
 
@@ -16,6 +15,8 @@ En haut de la rue on aperçoit les bâtiments où se trouvent actuellement la Bo
 *En 2024, photo de Pierre-Loup Tristant*
 
 ---
+
+Un texte de Pierre-Loup Tristant
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 2 août 2024.
 

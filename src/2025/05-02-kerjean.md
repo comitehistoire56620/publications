@@ -23,10 +23,10 @@ En 1426, ce manoir appartenait à la famille de Saint Nouan puis à Marie de Ker
 
 🖼️ Section C du Bourg, 2ème feuille, 1818. Patrimoines & Archives du Morbihan 3 P 225 9
 
-Carte IGN Géoportail
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+*Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
 
 
 ---

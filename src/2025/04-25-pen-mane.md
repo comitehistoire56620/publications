@@ -27,10 +27,10 @@ Ce toponyme associe pen (bout, extrémité) et menez, manez (montagne, lande). C
 
 🖼️ Section C du Bourg, 3ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 10
 
-Carte IGN Géoportail
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+*Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
 
 ---
 
