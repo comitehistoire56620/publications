@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Kermorgant
-
-🏘️ Si vous avez lu la série de posts sur l’affaire de Pont-Scave, alors vous savez certainement où se trouve le village de Kermorgant.
 
 Contrairement à d’autres toponymes celui-ci n’a pas vraiment varié au cours des siècles :
 
@@ -16,13 +13,15 @@ Ce toponyme associe Ker au nom de personne Morgant qui est un ancien nom celtiqu
 
 Ce nom de Morgant fut porté par un roi de l’ancienne île de Bretagne. Il est également cité dans le cartulaire de Quimperlé au début du XIe siècle.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
+🖼️ 
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
+![Image](./images/kermorgant-cadastre-1818.jpg)
 
-🖼️ Section C du Bourg, 3ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 10
+*Cadastre napoléonien - Section C du Bourg, 3ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 10*
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](./images/kermorgant-ign.png)
+
+*Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
 
 ---
 

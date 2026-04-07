@@ -3,6 +3,7 @@
 # Keriaquel (Pont-Scorff)
 
 Les graphies anciennes de ce village sont nombreuses et variées :
+
 - K/yezequel 1413
 - K/iezquel 1426
 - K/jezecael 1426
@@ -24,22 +25,13 @@ Dans ce village se trouve la chapelle de Saint-Gildas :
 - Chapelle Saint Gilda 1658,
 - Saint Gildas 1783
 
-Nous reparlerons plus longuement de cette chapelle plus tard.
-
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
-
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
-
-🖼️ Carte de l'état-major (1820-1866) et 
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](./images/keryaquel-carte-etat-major.png)
 
 *Carte de l'état-major (1820-1866)
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](./images/keryaquel-ign.png)
 
 *Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
-
 
 ---
 

@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Kerjean
-
-🏘️ Connaissez vous le village de Kerjean à Pont-Scorff ? Nous serions curieux de connaitre vos témoignages et souvenirs en commentaires. Pour les plus curieux, voici l'explication de ce toponyme:
 
 Le Parc Commercial de Kerjean du nom du village adjacent est devenu un lieu très fréquenté.
 
@@ -17,17 +14,12 @@ L’ancienne graphie Kerizien laisse penser que le village avait appartenu à un
 
 En 1426, ce manoir appartenait à la famille de Saint Nouan puis à Marie de Kerancarv, épouse de Jehan de Bennervern, seigneur de Trédiec en Riec, décédée en 1434. Cette propriété reviendra par la suite entre les mains de la famille de Saint Nouan. 
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
+![Image](./images/kerjean-cadastre-1818.jpg)
+*Cadastre napoléonien - Section C du Bourg, 2ème feuille, 1818. Patrimoines & Archives du Morbihan 3 P 225 9*
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
-
-🖼️ Section C du Bourg, 2ème feuille, 1818. Patrimoines & Archives du Morbihan 3 P 225 9
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](./images/kerjean-ign.png)
 
 *Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
-
 
 ---
 

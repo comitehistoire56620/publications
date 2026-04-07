@@ -6,7 +6,7 @@
 Le Comité d'histoire va continuer, comme il l'a fait pour la Fête de l'automne à accompagner les rendez-vous qui animent Cléguer et Pont-Scorff  en plongeant  dans nos archives... 
 Ces 25 et 26 octobre se tient à Pont-Scorff le Sitrouilhez deiz  organisé désormais par Pont-Scorff Animations (PSA) mais saviez vous que c'est à l'association d'horticulture que l'on doit que la citrouille soit en fête à Pont-Scorff ?  
 
-Ses adhérents avaient commencé la culture des cucurbitacées à Saint-Urchaud (photo en noir et blanc)  et proposé leur 1ère production à la Fête de l'automne de 1996.  En 2004, l'Horticulture décide de se dissocier de l'animation de Tier ha tud et met en place un 1er marché sur la place avant d'organiser, à partir de 2005, une grande fête des Cucurbitacées à la salle omnisports. Le Jour J le public venait en nombre très important  pour acheter les citrouilles que l'association cultivait notamment à Kerleau mais aussi pour se régaler  grâce aux nombreuses préparations de ses cordons bleus
+Ses adhérents avaient commencé la culture des cucurbitacées à Saint-Urchaud (photo en noir et blanc)  et proposé leur 1ère production à la Fête de l'automne de 1996. En 2004, l'Horticulture décide de se dissocier de l'animation de Tier ha tud et met en place un 1er marché sur la place avant d'organiser, à partir de 2005, une grande fête des Cucurbitacées à la salle omnisports. Le Jour J le public venait en nombre très important  pour acheter les citrouilles que l'association cultivait notamment à Kerleau mais aussi pour se régaler  grâce aux nombreuses préparations de ses cordons bleus
 
 ![Image](https://blocks.astratic.com/img/general-img-landscape.png)
 ![Image](https://blocks.astratic.com/img/general-img-landscape.png)

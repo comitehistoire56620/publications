@@ -3,7 +3,7 @@
 
 # La Foire des Rois
 
-👑 Mamylou raconte les Rois à sa petite fille.
+"Mamylou raconte les Rois à sa petite fille.
 
 - Mamylou raconte moi ton réveillon du 31 décembre quand tu étais petite dans les années 1945-1950 à Pont-Scorff ! 
 - Oh il n'y a pas grand chose à raconter, c'était une soirée ordinaire. Ce qui était important, pour nous, c'était le 1er janvier et la Foire des Rois sur la place de Pont-Scorff.
@@ -27,15 +27,17 @@
 - Nous n'avions pas de galette des rois mais il y avait la Foire des Rois le 6 janvier à Pont-Scorff. Elle durait juste une journée. C'était sur la place et on y vendait des petits cochons, des veaux, des lapins, des poulets…. Au centre de la place se trouvaient les vendeurs de tissus, de vaisselle et surtout ceux de galettes  ! Ma mère me donnait 10 centimes pour en acheter une ! Il s'agissait d'une galette, comme une galette St Michel mais plus grande, elle mesurait 10 cm ! Si la foire se tenait pendant la semaine on allait acheter notre galette pendant la « récréation » du midi. C'était la 1ère foire de l'année, et nous l'attendions avec impatience pour déguster cette galette ! oh juste 1 pas plus ! 
 
 - Mamylou quelles étaient les autres grandes foires  de Pont-Scorff ?
-- Ma pépette chérie, je te raconterai ça dans une autre histoire...
+- Ma pépette chérie, je te raconterai ça dans une autre histoire..."
 
-🙏Ce texte original vous a été proposée par Marie-Louise Gragnic.
-🖼️ Marie-Louise Gragnic enfant. © Famille Gragnic tout droits réservés.
+![Image](./images/marie-louise-gragnic-enfant.jpg)
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+Marie-Louise Gragnic enfant, photo de collection privée, famille Gragnic*
 
 ---
+
+Un texte de Marie-Louise Gragnic.
+
+Source: Souvenirs de Marie-Louise Gragnic.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 12 janvier 2025.
 

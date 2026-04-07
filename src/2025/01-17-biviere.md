@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Bivière et Kersamedi
-
-🏘️ Aujourd’hui nous allons tenter de déchiffrer les noms des villages de Bivière et de Kersamedi à Pont-Scorff.
 
 On trouve ici comme à Bremelin deux noms de lieu cités ensemble :
 - Bivier 1689
@@ -25,16 +22,14 @@ Quant au nom de Samedy, il doit être rapproché des autres lieux du même nom e
 
 (1) “Une tenue par dehors” est un domaine congéable qui ne comporte aucun édifice, uniquement des superficies.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
+![Image](./images/biviere-kersamedy-cadastre-1818.jpg)
 
-🖼️ Section D de Kermorvant, 2ème feuille, 1818. Patrimoines & Archives du Morbihan  cote 3 P 225 12
-Carte de l'état-major (1820-1866) Géoportail
+*Cadastre napoléonien - Section D de Kermorvant, 2ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 12*
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](./images/biviere-kersamedy-ign.png)
 
+*Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
 
 ---
 

@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Le Cosquer
-
-🏘️ Au sud est de Pont-Scorff, la ou affluent le Scorff et le Scave, se trouve le village du Cosquer. Voici comment le nom de ce lieu dit a évolué au cours des siècles:
 
 - Le Cozkaer 1500, 1508
 - Le Cozker 1537
@@ -16,14 +13,13 @@ Ce toponyme associe l’adjectif coz (vieux) à ker (village). Le fait que l’a
 
 Ce nom est porté par plus d’une centaine de villages rien que dans le Morbihan. Bien des Cosquer ont été des établissements Gallo-Romain que les premiers immigrants bretons ont trouvé en ruine à leur arrivée en Armorique aux IVe-Ve siècle. Les autres sont ceux détruits par les Normands aux IXe-Xe siècle et que les circonstances troublées ont fait abandonner pour un temps.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines  des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
+![Image](./images/lecosquer-cadastre-1818.jpg)
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
+*Cadastre napoléonien - Section C du Bourg, 3ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 10*
 
-🖼️ Section C du Bourg, 3ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 10
+![Image](./images/lecosquer-ign.png)
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+*Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
 
 ---
 

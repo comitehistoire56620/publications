@@ -2,7 +2,7 @@
 
 # Archives de la Fête de l'Automne
 
-Ces 25 et 26 octobre se tient à Pont-Scorff le Sitrouilhez deiz, organisé désormais par Pont-Scorff Animations (PSA). Mais saviez-vous que c'est à l'association d'horticulture que l'on doit que la citrouille soit en fête à Pont-Scorff ?
+Ces 25 et 26 octobre 2025 se tient à Pont-Scorff le Sitrouilhez deiz, organisé désormais par Pont-Scorff Animations (PSA). Mais saviez-vous que c'est à l'association d'horticulture que l'on doit que la citrouille soit en fête à Pont-Scorff ?
 
 Ses adhérents avaient commencé la culture des cucurbitacées à Saint-Urchaud (photo en noir et blanc) et proposé leur 1ère production à la Fête de l'automne de 1996. 
 

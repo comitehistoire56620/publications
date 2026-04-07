@@ -1,23 +1,21 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
 
-# Confluence Scorff-Scave
+# Confluence Scorff-Scave à Pont-Scorff
 
 Cette photo a été prise à la confluence du Scorff et du Scave, en contrebas du village du Cosquer.
 
-Pour s'y rendre, c'est à pied : départ du parking Les Terres de Nataé et suivre le circuit de Saint-Urchaut vers l'est.
+Pour s'y rendre à pied : départ du parking Les Terres de Nataé et suivre le circuit de Saint-Urchaut vers l'est.
 
-🔜 Cet été, nous vous proposerons chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+![Image](./images/confluence-scorff-scave-1971.jpg)
+*En 1971, photo des Archives du Morbihan*
 
-🖼️ Photo ancienne: Archives du Morbihan
-
-Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+![Image](./images/confluence-scorff-scave-2025.jpg)
+*En 2025, photo de Pierre-Loup Tristant*
 
 ---
+
+Un texte de Pierre-Loup Tristant
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 29 août 2025.
 

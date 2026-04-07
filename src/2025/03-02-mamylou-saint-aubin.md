@@ -1,9 +1,8 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # La fête de Saint-Aubin en 1950
 
-🔥 Mamylou raconte à sa petite fille la St Aubin à Pont-Scorff en 1950
+Mamylou raconte à sa petite fille:
  
 - Mamylou, il paraît que la St Aubin  était une fête très importante quand tu étais petite en 1950 à Pont-Scorff. Raconte moi ! 
 - Oh oui, quelle fête ! On y venait de tout le pays de Lorient et même de celui de Quimperlé ! Il s'agissait du premier pardon de l'année qui se tenait  le premier dimanche de mars dans la chapelle de Lesbin. Que de monde pour marquer la sortie de l'hiver.
@@ -32,13 +31,14 @@ Tu vois ma pépette chérie, toutes les personnes qui ont vécu ce Pardon de la 
 
 - Mamilou c'est parce que tu ne connais pas la fête foraine de Lorient à Noël. A mon tour je te raconterai !
 
-🙏Ce texte original vous a été proposée par Marie-Louise Gragnic et Sylvie Lelgoualc'h.
-🖼️ Procession de la Saint-Aubin le vers 1950. © Collection Marie Claude Nicolas.
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+![Image](./images/saint-aubin-procession.jpg)
+*Procession de la Saint-Aubin le vers 1950, photo de collection privée, famille Nicolas.*
 
 ---
+
+Un texte de Sylvie Lelgoualc'h.
+
+Source: Souvenirs de Marie-Louise Gragnic.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 2 mars 2025.
 

@@ -1,22 +1,18 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# Château de Meslien
-
-Avez-vous reconnu, l'entrée du Château de Meslien à Cléguer ?
+# Château de Meslien à Cléguer
 
 Les piliers sont ornés de lions couchés. Ils portent les armes des Robecq qui ont construit l’édifice actuel en 1783.
 
-🔜 Cet été, nous vous proposerons chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+![Image](./images/chateau-de-meslien-1934.jpg)
+*En 1934, photo des Archives du Morbihan*
 
-🖼️ Photo ancienne: Archives du Morbihan (1934).
-Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+![Image](./images/chateau-de-meslien-2025.jpg)
+*En 2025, photo de Pierre-Loup Tristant*
 
 ---
+
+Un texte de Pierre-Loup Tristant
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 13 juillet 2025.
 

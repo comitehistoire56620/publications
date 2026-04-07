@@ -8,7 +8,7 @@ Au premier plan, l’aile nord de l’Atelier d’Estienne qui hébergeait à la
 
 ![Image](./images/atelier-destienne-1970.jpg)
 
-*En 1970, photo des Archives du Morbihan*
+*En 1971, photo des Archives du Morbihan*
 
 ![Image](./images/atelier-destienne-2024.jpeg)
 

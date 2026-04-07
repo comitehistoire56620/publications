@@ -1,23 +1,18 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
-# Rue Docteur Rialland
-
-Avez vous reconnu la Rue Docteur Rialland à Pont-Scorff ?
+# Rue Docteur Rialland à Pont-Scorff
 
 A l'angle de la rue se trouvait le Bar du Stade que l'on connaît mieux sous le nom "Chez Minouche".
 
-🔜 Cet été, nous vous proposerons chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+![Image](./images/rue-docteur-rialan-1971.jpg)
+*En 1971, photo des Archives du Morbihan*
 
-🖼️ Photo ancienne (1971): Archives du Morbihan
-
-Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+![Image](./images/rue-docteur-rialan-2025.jpg)
+*En 2025, photo de Pierre-Loup Tristant*
 
 ---
+
+Un texte de Pierre-Loup Tristant
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 9 septembre 2025.
 

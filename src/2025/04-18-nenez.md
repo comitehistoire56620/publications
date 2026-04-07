@@ -1,9 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Nenez
-
-🏘️ Connaissez vous le village de Nenez à Pont-Scorff ? Nous serions curieux de connaitre vos témoignages et souvenirs en commentaires. Pour les plus curieux, voici l'explication de ce toponyme:
 
 - Lille 1413
 - Lisle 1428
@@ -23,16 +20,11 @@ C’est un des toponymes fréquemment employé en français dès le XVe siècle.
 
 Ce nom de lieu est également un patronyme. Dans les deux cas on constate une agglutination du résidu de l’article breton (a)n enez ou français l(e) enez.
 
-🔜 Régulièrement, nous allons proposer sur cette page les origines des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
 
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014.
+![Image](./images/nenez-cadastre-1818.jpg)
+*Cadastre napoléonien - Section D de Kermorvant, 2ème feuille, 1818. @Patrimoines & Archives du Morbihan cote 3 P 225 12*
 
-🖼️ Section D de Kermorvant, 2ème feuille, 1818. @Patrimoines & Archives du Morbihan cote 3 P 225 12
-
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+![Image](./images/nenez-ign.png)
 *Carte SCAN25 © IGN 2025 – Copie et reproduction interdite*
 
 ---

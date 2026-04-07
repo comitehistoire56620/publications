@@ -1,22 +1,18 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Le Moulin de Saint-Yves
 
-Avez-vous reconnu, l'actuel Domaine du Moulin de Saint-Yves ?
-Ce bâtiment, qui se trouve sur la berge côté Cleguer, fût autrefois une brasserie comme on peut le lire sur la devanture. Cet élément avait été gommé de la photo postée dimanche pour ne pas que ce soit trop facile !
+Ce bâtiment, qui se trouve sur la berge côté Cleguer, fût autrefois une brasserie comme on peut le lire sur la devanture.
 
-🔜 Cet été, nous vous proposerons chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
+![Image](./images/brasserie-saint-yves-vers-1900-original.jpg)
+*Vers 1900, carte postale, collection privéee*
 
-🖼️ Photo ancienne: Carte postal collection privée.
-
-Photo aujourd’hui: © 2025 par Pierre-Loup Tristant sous license CC BY 4.0
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+![Image](./images/brasserie-saint-yves-2025.jpg)
+*En 2025, photo de Pierre-Loup Tristant*
 
 ---
+
+Un texte de Pierre-Loup Tristant
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 27 juin 2025.
 

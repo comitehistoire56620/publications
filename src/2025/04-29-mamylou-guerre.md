@@ -1,6 +1,5 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-
 # Souvenirs d'Occupation (1944)
 
 Mamylou raconte à sa petite fille:
@@ -28,14 +27,14 @@ Quelques jours plus tard, sa maman me propose de porter une de ses robes. C'est 
 
 En cette fin avril nous commémorons les 80 ans de la mort de Louisette Duliscouët, 8 ans, tuée par un éclat d’obus à Sapin en Gam. Elle fut la dernière victime civile scorvipontaine de la guerre.
 
-🙏Ce texte original vous a été proposée par Marie-Louise Gragnic (Mamylou) et Sylvie Lelgoualc'h.
-
-🖼️ Photo de la famille Duliscouët vers 1939-1940 (Louisette est au centre) © Collection Yvonnick Le Coupannec.
-
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
-
+![Image](./images/famille-duliscouet-1940.jpg)
+*Photo de la famille Duliscouët vers 1939-1940 (Louisette est au centre), photo de collection privée, Yvonnick Le Coupannec.*
 
 ---
+
+Un texte de Sylvie Lelgoualc'h.
+
+Source: Souvenirs de Marie-Louise Gragnic.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 29 avril 2025.
 
