@@ -31,7 +31,7 @@ En 1861 on trouvait déjà un café au lieu-dit l'Enfer et l'outil de levage qu'
 Un texte de Michel Pothier. 
 
 Sources: 
-* « Des sources de l’Ellé à l’Île de Groix », Jean-Yves Plourin et Pierre Holloco, édition Emgleo Breiz, 2014.
+* « Des sources de l’Ellé à l’Île de Groix », Jean-Yves Plourin et Pierre Hollocou, édition Emgleo Breiz, 2014.
 * « Secrets & mystères de nos Kêr - Tome 2 »  par Job Jaffré 
 * « Sur les rives du Scorff » par Martine Rouellé.
 

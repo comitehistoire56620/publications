@@ -21,7 +21,7 @@ Malgré l’absence de formes plus anciennes, on peut voir dans ce toponyme l’
 
 Un texte de Michel Pothier. 
 
-Source: « Des sources de l’Ellé à l’Île de Groix », Jean-Yves Plourin et Pierre Holloco, édition Emgleo Breiz, 2014.
+Source: « Des sources de l’Ellé à l’Île de Groix », Jean-Yves Plourin et Pierre Hollocou, édition Emgleo Breiz, 2014.
 
 Publié sur [la page Facebook du Comité d'Histoire](https://www.facebook.com/comitehistoire56620) le 18 novembre 2024.
 
