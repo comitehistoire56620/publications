@@ -4,6 +4,7 @@
 
 Sur le tableau, en bas à droite, on peut lire “Pont-Scorff le matin, 27 juillet 1893”. Il est signé par Auguste Nayel, le sculpteur et dessinateur lorientais. La photo actuelle est prise côté Cleguer.
 
+
 ![Image](./images/rocher-amont-moulin-maria-1893.jpg)
 *En 1893, tableau d'Auguste Nayel, collection privée*
 

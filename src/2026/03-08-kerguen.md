@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kerguen
+# Kerguen (Pont-Scorff)
 
 C’est un des toponymes les plus anciens de la commune. En effet, nous trouvons ce nom de lieu, écrit en latin, dès le XIIe siècle sous la forme Villa Albi vers 1167, ensuite K/anguen 1448, 1449, 1508, 1540, 1559, 1565, 1571, K/guen 1642, 1645, 1671, lieu, manoir et mettayrie noble de Queranguen ou Querguen 1683, K/enguen et lieu et métairie de K/guen 1754, K/guen 1771 et 1790, K/guene cadastre de 1818.
 

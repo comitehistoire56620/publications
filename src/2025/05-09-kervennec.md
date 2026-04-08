@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kervennec
+# Kervennec (Pont-Scorff)
 
 - K/maenec 1413, 1444
 - Kmennec 1430

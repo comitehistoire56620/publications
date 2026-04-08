@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kerleau
+# Kerleau (Pont-Scorff)
 
 K/anleau 1426
 K/haelou (K/leau mentionné en marge) 1443
