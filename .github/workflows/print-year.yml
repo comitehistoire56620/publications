@@ -43,9 +43,9 @@ jobs:
 
       - name: Build PDF
         run: |
-          rm book.toml SUMMARY.md
+          rm book.toml src/SUMMARY.md
           mv book-print.toml book.toml
-          mv SUMMARY_PRINT.md SUMMARY.md
+          mv src/SUMMARY_PRINT.md src/SUMMARY.md
           mdbook build
 
       - name: Upload PDF
