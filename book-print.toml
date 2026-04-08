@@ -13,9 +13,9 @@ no-section-label = true
 # ensure we use Chrome/Chromium
 print-background = true
 landscape = false
-paper-width = "210mm"
-paper-height = "297mm"
-margin-top = "10mm"
-margin-bottom = "10mm"
-margin-left = "10mm"
-margin-right = "10mm"
+paper-width = 8.27
+paper-height = 11.69
+margin-top = 0.39
+margin-bottom = 0.39
+margin-left = 0.39
+margin-right = 0.39
