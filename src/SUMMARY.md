@@ -56,8 +56,7 @@
     - [L'affaire de Pont-Scave : Les lieux du crime](2024/11-24-affaire-pont-scave-lieux.md)
     - [Kermerien](2024/11-29-kermerien.md)
     - [L'histoire de la lettre K barré (Ꝃ)](2024/12-01-lettre-k-barre.md)
-    - [Kergeris](2024/12-06-kergeris.md)
-    - [L'histoire de la lettre K barré (suite)](2024/12-08-k-barre-suite.md)
+    - [Kergueris](2024/12-06-kergueris.md)
     - [Bremelin](2024/12-13-bremelin.md)
     - [Noël en 1950 à Pont-Scorff](2024/12-15-mamylou-noel-1950.md)
 - [2025](2025/SUMMARY.md)
@@ -76,7 +75,7 @@
     - [Kervennec](2025/05-09-kervennec.md)
     - [Kerleau](2025/05-17-kerleau.md)
     - [Chapelle Saint-Servais](2025/06-20-chapelle-saint-servais.md)
-    - [Le Moulin de Saint-Yves](2025/06-27-moulin-saint-yves.md)
+    - [La brasserie de Saint-Yves](2025/06-27-brasserie-saint-yves.md)
     - [L'Hôtel des Templiers](2025/07-04-hotel-templiers.md)
     - [Château de Meslien](2025/07-13-chateau-meslien.md)
     - [L'Ancienne Gendarmerie](2025/07-21-ancienne-gendarmerie.md)
@@ -85,7 +84,7 @@
     - [Confluence Scorff-Scave](2025/08-29-confluence-scorff-scave.md)
     - [Rue Docteur Rialland](2025/09-09-rue-docteur-rialland.md)
     - [La Cale du Bas Pont-Scorff](2025/09-14-cale-bas-pont-scorff.md)
-    - [Archives de la Fête de l'Automne](2025/10-23-archives-fetes-automne.md)
+    - [Archives de la Fête de l'Automne](2025/10-18-archives-fetes-automne.md)
     - [La Fête de la Citrouille](2025/10-23-fete-automne-citrouille.md)
     - [Fernande Herpe, la fille du sabotier](2025/11-11-fernande-herpe.md)
     - [Joseph Bocher, Mort pour la France](2025/11-11-joseph-louis-jacques-bocher.md)
@@ -93,9 +92,9 @@
     - [Kervarzaouën](2025/12-14-kervarzaouen.md)
 
 - [2026](2026/SUMMARY.md)
-    - [Kerguen](2026/kerguen.md)
-    - [Kerignen](2026/kerignen.md)
+    - [Kerguen](2026/03-08-kerguen.md)
     - [Le mariage d'Anne-Marie sous l'occupation à Pont-Scorff](2026/03-22-mamylou-mariage-anne-marie.md)
+    - [Kerignen](2026/03-29-kerignen.md)
 
 # Thèmes
 

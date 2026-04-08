@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Château de Meslien à Cléguer
+# Château de Meslien (Cléguer)
 
 Les piliers sont ornés de lions couchés. Ils portent les armes des Robecq qui ont construit l’édifice actuel en 1783.
 

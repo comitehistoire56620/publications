@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kerliff
+# Kerliff (Pont-Scorff)
 
 Ce nom a beaucoup évolué au cours des siècles :
 

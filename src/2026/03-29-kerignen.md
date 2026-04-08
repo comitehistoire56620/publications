@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kerignen
+# Kerignen (Pont-Scorff)
 
 Toponyme plus récent mais plus difficile à traduire. La première graphie connue n’apparait qu’en 1508 K/rignen puis K/hignan 1587, 1671, 1680, Mettayerie noble de Querhignen 1683, K/hinnen 1701, 1702, K/hignen 1762, K/inen 1762, K/hinien 1772, Cassini Kerbinen, K/hinnen 1790, K/iniene cadastre 1818.
 

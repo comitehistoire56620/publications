@@ -6,7 +6,7 @@ Au premier plan, l’aile nord de l’Atelier d’Estienne qui hébergeait à la
 
 🔜 Cet été, nous vous proposeront chaque dimanche une photo, carte postale ou illustration d’un lieu de Cléguer ou de Pont-Scorff. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures.
 
-![Image](./images/atelier-destienne-1970.jpg)
+![Image](./images/atelier-destienne-1971.jpg)
 
 *En 1971, photo des Archives du Morbihan*
 

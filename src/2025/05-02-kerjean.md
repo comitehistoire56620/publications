@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kerjean
+# Kerjean (Pont-Scorff)
 
 Le Parc Commercial de Kerjean du nom du village adjacent est devenu un lieu très fréquenté.
 

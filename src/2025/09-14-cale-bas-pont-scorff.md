@@ -1,7 +1,7 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
 
-# La Cale du Bas Pont-Scorff à Cléguer?
+# La Cale du Bas Pont-Scorff (Cléguer)
 
 Derrière le mur on distingue les tas de bois qui étaient stockés dans le jardin de Jean-Marie Adol, ancien maire de Cléguer.
 

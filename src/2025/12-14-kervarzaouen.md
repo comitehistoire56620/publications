@@ -1,4 +1,4 @@
-# Kervarzaouën
+# Kervarzaouën (Pont-Scorff)
 
 Les graphies de ce nom de village ont beaucoup évolué avec le temps et rendent la traduction incertaine. En voici quelques-unes relevées dans des documents anciens :
 

@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kermorgant
+# Kermorgant (Pont-Scorff)
 
 Contrairement à d’autres toponymes celui-ci n’a pas vraiment varié au cours des siècles :
 
@@ -12,8 +12,6 @@ Contrairement à d’autres toponymes celui-ci n’a pas vraiment varié au cour
 Ce toponyme associe Ker au nom de personne Morgant qui est un ancien nom celtique commun au gallois et au breton. Au Pays de Galles il donne son nom au Comté de Glamorgan dont Cardiff est la ville principale.
 
 Ce nom de Morgant fut porté par un roi de l’ancienne île de Bretagne. Il est également cité dans le cartulaire de Quimperlé au début du XIe siècle.
-
-🖼️ 
 
 ![Image](./images/kermorgant-cadastre-1818.jpg)
 

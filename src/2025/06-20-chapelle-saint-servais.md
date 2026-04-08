@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Chapelle Saint-Servais
+# Chapelle Saint-Servais (Pont-Scorff)
 
 Cela fait plus de 500 ans (seconde moitié du XVème siècle) qu’on peut admirer ses colonnettes surmontées de chapiteaux à décors végétaux. Si vous quittez Pont-Scorff en direction de Quimperlé, vous la verrez sur votre droite. N’hésitez pas à vous arrêter pour jeter un coup d'œil.
 

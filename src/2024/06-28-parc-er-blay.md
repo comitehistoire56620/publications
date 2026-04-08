@@ -7,7 +7,6 @@ On sait que le nom Parc er Blay existe déjà en 1753 mais il n'apparaît pas su
 Ce toponyme associé “parc” (champ) et le nom de famille Le Blaye qui est une variante de Bleiz qui signifie loup en breton. Il pourrait donc s’appeler également le Champ du Loup.
 
 ![Image](./images/park-er-blei-ign.png)
-
 *Carte SCAN25 © IGN 2024 – Copie et reproduction interdite*
 
 ---

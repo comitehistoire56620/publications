@@ -11,8 +11,8 @@ Le 17 mars 1796, l’accusateur public du tribunal criminel de Vannes procède �
 Cependant : « afin de ménager le parti royaliste et pour ne pas heurter de front les principes religieux dont le peuple est imbu », le Directoire en vint à adoucir le sort des prêtres réfractaires. Le 28 décembre 1796, un arrêté ordonne que : « les prêtres détenus en la maison de réclusion de Vannes seront mis en liberté et qu’ils demeureront sous la surveillance des municipalités ». Le prêtre Chauvel est remis en liberté et rendu à sa paroisse en janvier 1797. A son arrivée à Pont-Scorff, il est porté en triomphe par ses paroissiens. Le commissaire du Directoire exécutif d’Hennebont dira de lui : « Cet homme n’est pas méchant, mais c’est un fanatique outré, chez lui, on se rendait en foule pour les confessions, les baptêmes, les mariages et bonnes messes… ». De son frère, on ne sait pas grand-chose, les uns le disent en Espagne, les autres assurent qu’il n’a pas quitté le canton. Le dévoué recteur se remit immédiatement à l’œuvre dans l’exercice de son ministère.
 
 ![Plans, coupe et élévation de maison d'arrêt dite du petit couvent](./images/petit-couvent-1FI2031.jpg)
-
 *Plans, coupe et élévation de maison d'arrêt dite du petit couvent, Brunet-Debaines (Architecte-Voyer), 1810. Patrimoines & Archives du Morbihan, cote 1 Fi 203/1*
+
 ---
 
 Un texte de Joël Nevannen

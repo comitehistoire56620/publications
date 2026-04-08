@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Rue Docteur Rialland à Pont-Scorff
+# Rue Docteur Rialland (Pont-Scorff)
 
 A l'angle de la rue se trouvait le Bar du Stade que l'on connaît mieux sous le nom "Chez Minouche".
 

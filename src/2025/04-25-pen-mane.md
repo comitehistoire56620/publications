@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Pen Mané
+# Pen Mané (Pont-Scorff)
 
 - Pen an Manez 1412,1439
 - Pen an Menez 1448

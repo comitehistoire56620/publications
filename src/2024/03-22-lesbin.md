@@ -24,10 +24,6 @@ Sinon, il pourrait venir du nom “Leubinus”, moine poitevin, mort évêque de
 
 Ce n’est qu’au XVIIe siècle que l’on voit apparaître « Lesbin » avec comme premier élément “Les” (’habitation enclose). Le deuxième élément a été assimilé à cette époque à Saint Aubin. Or déjà en 1167 c’était Lebin et non pas Lesbin.
 
-🔜 Régulièrement nous allons proposer sur cette page les origines des villages de Cléguer et de Pont-Scorff ainsi que leur évolution jusqu’à nos jours. N’hésitez pas à vous abonner à notre page pour ne rien rater des publications futures
-
-🙏 Cette étude toponymique vous a été proposée par Michel Pothier. Elle est tirée du livre de Jean-Yves Plourin et Pierre Hollocou « Des sources de l’Ellé à l’Île de Groix » Brest - édition Emgleo Breiz - 2014. Leurs recherches à partir des manuscrits des aveux, déclarations et censies de la seigneurie de la Roche Moisan provenant essentiellement du Fonds privé Rohan Bouillon des Archives Nationales à Paris, leur ont permis de recueillir les anciennes graphies des XVe et XVIe siècles d’un grand nombre de toponymes.
-
 ![Image](./images/lesbin-carte-etat-major.png)
 
 *Carte de l'état-major (1820-1866), IGN*

@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Le Moulin de Saint-Yves
+# La brasserie de Saint-Yves (Cléguer)
 
 Ce bâtiment, qui se trouve sur la berge côté Cleguer, fût autrefois une brasserie comme on peut le lire sur la devanture.
 

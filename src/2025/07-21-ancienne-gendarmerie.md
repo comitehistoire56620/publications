@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# L'Ancienne Gendarmerie de Pont-Scorff
+# L'Ancienne Gendarmerie (Pont-Scorff)
 
 Elle se trouvait rue du Général de Gaulle à Pont-Scorff. Le bâtiment a été rénové dans les années 2000.
 

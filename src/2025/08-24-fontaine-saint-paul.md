@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Fontaine Saint-Paul à Cléguer
+# Fontaine Saint-Paul (Cléguer)
 
 La fontaine se trouve tout proche du village du Vizit à Cleguer.
 

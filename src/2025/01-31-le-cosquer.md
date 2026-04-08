@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Le Cosquer
+# Le Cosquer (Pont-Scorff)
 
 - Le Cozkaer 1500, 1508
 - Le Cozker 1537

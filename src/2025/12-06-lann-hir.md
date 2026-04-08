@@ -1,4 +1,4 @@
-# Lann-Hir
+# Lann-Hir (Pont-Scorff)
 
 L’écriture n’a pas beaucoup varié au cours des siècles :
 - Lanhir 1421, 1661, 1689, 1702, 1720, 

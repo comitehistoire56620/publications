@@ -4,9 +4,9 @@
 
 Cette bâtisse à toit de chaume pourrait dater du XVIème ou du début du XVIIème. Le village qui se trouve en bordure du site de traitement des déchets est aujourd’hui à l’abandon.
 
-![Image](./images/lannhir-1970.jpg)
+![Image](./images/lannhir-1971.jpg)
 
-*En 1970, photo des Archives du Morbihan*
+*En 1971, photo des Archives du Morbihan*
 
 ![Image](./images/lannhir-2024.jpeg)
 

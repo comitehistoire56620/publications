@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# L'Hôtel des Templiers
+# L'Hôtel des Templiers (Pont-Scorff)
 
 Voici la photo originale qui mentionne "Ruines de l'ancien Hôtel des Templiers". Le bâtiment se trouvait Place de la Maison des Princes à l'emplacement de l'actuel numéro 38. Il a été détruit par un incendie en 1889.
 

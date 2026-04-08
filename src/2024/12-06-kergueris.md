@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Kergeris (Pont-Scorff)
+# Kergueris (Pont-Scorff)
 
 Pas de surprise avec ce toponyme dont les graphies anciennes sont constantes. Elles hésitent seulement entre K/gueris et K/guiris :
 
@@ -11,7 +11,7 @@ Il y a, toutefois, quelques nuances avec : village noble de K/guiris, manoir de 
 
 Ce toponyme associe Ker au moyen breton queris, breton moderne keres, keles (cerises et cerisiers). Ce village devait sans doute comporter beaucoup de cerisiers.
 
-![Image](https://blocks.astratic.com/img/general-img-landscape.png)
+![Image](./images/kergueris-cadastre-1818.jpg)
 
 *Cadastre napoléonien - Section D de Kermorvant, 2ème feuille, 1818. Patrimoines & Archives du Morbihan cote 3 P 225 12*
 ---

@@ -1,6 +1,6 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
-# Bivière et Kersamedi
+# Bivière et Kersamedi (Pont-Scorff)
 
 On trouve ici comme à Bremelin deux noms de lieu cités ensemble :
 - Bivier 1689

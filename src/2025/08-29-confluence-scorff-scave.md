@@ -1,7 +1,7 @@
 <!--  Copyright (C) 2015-2025 COMITE HISTOIRE ET PATRIMOINE DE CLEGUER / PONT SCORFF -->
 
 
-# Confluence Scorff-Scave à Pont-Scorff
+# Confluence Scorff-Scave (Pont-Scorff)
 
 Cette photo a été prise à la confluence du Scorff et du Scave, en contrebas du village du Cosquer.
 

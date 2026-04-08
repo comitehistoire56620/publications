@@ -7,8 +7,8 @@ Ce toponyme est ancien. En effet la première graphie relevée K/anblouch remont
 Ce nom de lieu associe ker au nom de famille An Blouch, Blouc’h variante de Bloc’h qui s’applique à une personne imberbe, glabre.
 
 ![Image](./images/kerblouch-cadastre-1818.jpg)
-
 *Cadastre napoléonien - Section A de Kerlau, 3eme feuille, 1818. Archives départementales du Morbihan cote 3 P 225 5*
+
 ---
 
 Un texte de Michel Pothier. 
