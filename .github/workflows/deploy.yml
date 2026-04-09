@@ -27,6 +27,7 @@ jobs:
           # This assumes your book is in the root of your repository.
           # Just add a `cd` here if you need to change to another directory.
           mdbook build
+          cp google80e940d29639c26b.html book/
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
