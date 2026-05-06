@@ -95,6 +95,7 @@
     - [Kerguen](2026/03-08-kerguen.md)
     - [Le mariage d'Anne-Marie sous l'occupation à Pont-Scorff](2026/03-22-mamylou-mariage-anne-marie.md)
     - [Kerignen](2026/03-29-kerignen.md)
+    - [Anne-Marie Bardouil](2026/05-08-marie-louise-bardouil.md)
 
 # Thèmes
 
